@@ -1,0 +1,8594 @@
+var songs = {
+  "listName": "The Sound A-Z",
+  "listDescription": "The Sound, 100.3, final A-Z song listing.",
+  "songList":﻿[
+ {
+   "Song": "A.D. 1928/Rockin' The Paradise",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Abacab",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Abracadabra",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Accidents Will Happen",
+   "Artist": "Elvis Costello"
+ },
+ {
+   "Song": "Achilles Last Stand",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Act Naturally",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Addicted To Love",
+   "Artist": "Robert Palmer"
+ },
+ {
+   "Song": "Africa",
+   "Artist": "Toto"
+ },
+ {
+   "Song": "After Midnight",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "After The Gold Rush",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Against The Wind",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Ah! Leah!",
+   "Artist": "Donnie Iris"
+ },
+ {
+   "Song": "Ain't Even Done With The Night",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Ain't No Sunshine",
+   "Artist": "Bill Withers"
+ },
+ {
+   "Song": "Ain't Talkin' Bout Love",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Ain't That A Shame",
+   "Artist": "John Lennon"
+ },
+ {
+   "Song": "Ain't Too Proud To Beg",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Ain't Wastin' Time No More",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "Aja",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Alabama Getaway",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Alabama Song",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Alison",
+   "Artist": "Elvis Costello"
+ },
+ {
+   "Song": "Alive",
+   "Artist": "Pearl Jam"
+ },
+ {
+   "Song": "Alive And Kicking",
+   "Artist": "Simple Minds"
+ },
+ {
+   "Song": "All Along The Watchtower",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "All Day And All Of The Night",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "All Down The Line",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "All I Ever Wanted",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "All I Need Is A Miracle",
+   "Artist": "Mike & The Mechanics"
+ },
+ {
+   "Song": "All I Wanna Do",
+   "Artist": "Sheryl Crow"
+ },
+ {
+   "Song": "All I Want Is You",
+   "Artist": "U2"
+ },
+ {
+   "Song": "All Mixed Up",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "All My Love",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "All My Loving",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "All Night Long",
+   "Artist": "Joe Walsh"
+ },
+ {
+   "Song": "All Right Now",
+   "Artist": "Free"
+ },
+ {
+   "Song": "All She Wants To Is Dance",
+   "Artist": "Don Henley"
+ },
+ {
+   "Song": "All Shook Up",
+   "Artist": "Elvis Presley"
+ },
+ {
+   "Song": "All The Things She Said",
+   "Artist": "Simple Minds"
+ },
+ {
+   "Song": "All The Young Dudes",
+   "Artist": "Mott The Hoople"
+ },
+ {
+   "Song": "All Those Years Ago",
+   "Artist": "George Harrison"
+ },
+ {
+   "Song": "All Together Now",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "All You Need Is Love",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Alone Again Or",
+   "Artist": "Ufo"
+ },
+ {
+   "Song": "Already Gone",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Amanda",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "America",
+   "Artist": "Simon & Garfunkel"
+ },
+ {
+   "Song": "American Girl",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "American Pie",
+   "Artist": "Don Mclean"
+ },
+ {
+   "Song": "American Woman",
+   "Artist": "Guess Who"
+ },
+ {
+   "Song": "Amie",
+   "Artist": "Pure Prairie League"
+ },
+ {
+   "Song": "And I Love Her",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "And It Stoned Me",
+   "Artist": "Van Morrison"
+ },
+ {
+   "Song": "And She Was",
+   "Artist": "Talking Heads"
+ },
+ {
+   "Song": "And The Cradle Will Rock",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "And Your Bird Can Sing",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Angel",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Angel Eyes",
+   "Artist": "Jeff Healey Band"
+ },
+ {
+   "Song": "Angel Of Harlem",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Angels Wanna Wear My Red Shoes",
+   "Artist": "Elvis Costello"
+ },
+ {
+   "Song": "Angie",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Animal",
+   "Artist": "Def Leppard"
+ },
+ {
+   "Song": "Another Brick In The Wall Pt.2",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Another Day",
+   "Artist": "Paul Mccartney"
+ },
+ {
+   "Song": "Another Girl",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Another One Bites The Dust",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Another One Rides The Bus",
+   "Artist": "Weird Al Yankovic"
+ },
+ {
+   "Song": "Another Park, Another Sunday",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Another Tricky Day",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Anticipation",
+   "Artist": "Carly Simon"
+ },
+ {
+   "Song": "Ants Marching",
+   "Artist": "Dave Matthews Band"
+ },
+ {
+   "Song": "Any Major Dude Will Tell You",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Any Way You Want It",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Any World (That I'm Welcome To)",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Anything Anything",
+   "Artist": "Dramarama"
+ },
+ {
+   "Song": "Aqualung",
+   "Artist": "Jethro Tull"
+ },
+ {
+   "Song": "Are You Experienced",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Armageddon It",
+   "Artist": "Def Leppard"
+ },
+ {
+   "Song": "As Tears Go By",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Athena",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Authority Song",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Autobahn",
+   "Artist": "Kraftwerk"
+ },
+ {
+   "Song": "Baba O'riley",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Babe",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Babe I'm Gonna Leave You",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Baby Blue",
+   "Artist": "Badfinger"
+ },
+ {
+   "Song": "Baby Hold On",
+   "Artist": "Eddie Money"
+ },
+ {
+   "Song": "Baby, I Love Your Way",
+   "Artist": "Peter Frampton"
+ },
+ {
+   "Song": "Baby, You're A Rich Man",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Babylon Sisters",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Back Door Man",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Back In Black",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Back In The High Life Again",
+   "Artist": "Steve Winwood"
+ },
+ {
+   "Song": "Back In The Saddle",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Back In The U.S.S.R.",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Back Off Boogaloo",
+   "Artist": "Ringo Starr"
+ },
+ {
+   "Song": "Back On My Feet Again",
+   "Artist": "Babys"
+ },
+ {
+   "Song": "Back On The Chain Gang",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Back Stabber",
+   "Artist": "O'jays"
+ },
+ {
+   "Song": "Backstreets",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Bad (Live)",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Bad Bad Leroy Brown",
+   "Artist": "Jim Croce"
+ },
+ {
+   "Song": "Bad Case Of Loving You",
+   "Artist": "Robert Palmer"
+ },
+ {
+   "Song": "Bad Company",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Bad Love",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Bad Medicine",
+   "Artist": "Bon Jovi"
+ },
+ {
+   "Song": "Bad Moon Rising",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Bad Reputation",
+   "Artist": "Joan Jett"
+ },
+ {
+   "Song": "Bad Sneakers",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Bad To The Bone",
+   "Artist": "George Thorogood"
+ },
+ {
+   "Song": "Badge",
+   "Artist": "Cream"
+ },
+ {
+   "Song": "Badlands",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Baker Street",
+   "Artist": "Gerry Rafferty"
+ },
+ {
+   "Song": "Ballad Of John And Yoko, The",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Ballroom Blitz",
+   "Artist": "Sweet"
+ },
+ {
+   "Song": "Band On The Run",
+   "Artist": "Paul Mccartney & Wings"
+ },
+ {
+   "Song": "Bang A Gong",
+   "Artist": "T Rex"
+ },
+ {
+   "Song": "Bang The Drum",
+   "Artist": "Todd Rundgren"
+ },
+ {
+   "Song": "Barbara Ann",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Bargain",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Bark At The Moon",
+   "Artist": "Ozzy Osbourne"
+ },
+ {
+   "Song": "Barracuda",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "Battle Of Evermore",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Beast Of Burden",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Beautiful Day",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Beautiful Girls",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Beautiful Loser",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Beautiful Morning, A",
+   "Artist": "The Rascals"
+ },
+ {
+   "Song": "Because The Night",
+   "Artist": "Patti Smith"
+ },
+ {
+   "Song": "Beds Are Burning",
+   "Artist": "Midnight Oil"
+ },
+ {
+   "Song": "Been Caught Stealing",
+   "Artist": "Janes Addiction"
+ },
+ {
+   "Song": "Beginnings",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Behind Blue Eyes",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Bell Bottom Blues",
+   "Artist": "Derek & The Dominos"
+ },
+ {
+   "Song": "Bennie And The Jets",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Best Of My Love",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Best Of Times, The",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Beth",
+   "Artist": "Kiss"
+ },
+ {
+   "Song": "Better Man",
+   "Artist": "Pearl Jam"
+ },
+ {
+   "Song": "Betty Lou's Getting Out Tonight",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Bicycle Race",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Big Balls",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Big City Nights",
+   "Artist": "Scorpions"
+ },
+ {
+   "Song": "Big Log",
+   "Artist": "Robert Plant"
+ },
+ {
+   "Song": "Big Love",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Big Shot",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "Big Ten Inch Record",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Big Time",
+   "Artist": "Peter Gabriel"
+ },
+ {
+   "Song": "Big Yellow Taxi",
+   "Artist": "Joni Mitchell"
+ },
+ {
+   "Song": "Birthday",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Bitch",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Bitch Is Back, The",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Bits & Pieces",
+   "Artist": "Dave Clark 5"
+ },
+ {
+   "Song": "Black",
+   "Artist": "Pearl Jam"
+ },
+ {
+   "Song": "Black Betty",
+   "Artist": "Ram Jam"
+ },
+ {
+   "Song": "Black Coffee In Bed",
+   "Artist": "Squeeze"
+ },
+ {
+   "Song": "Black Cow",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Black Dog",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Black Friday",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Black Hole Sun",
+   "Artist": "Soundgarden"
+ },
+ {
+   "Song": "Black Magic Woman",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "Black Water",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Blackbird",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Blinded By The Light",
+   "Artist": "Manfred Mann"
+ },
+ {
+   "Song": "Blitzkrieg Bop",
+   "Artist": "Ramones"
+ },
+ {
+   "Song": "Bloody Well Right",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "Blue Collar Man",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Blue Jean",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Blue Morning Blue Day",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Blue On Black",
+   "Artist": "Kenny Wayne Shepherd"
+ },
+ {
+   "Song": "Blue Sky",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "Blue Sky Mine",
+   "Artist": "Midnight Oil"
+ },
+ {
+   "Song": "Blue Suede Shoes",
+   "Artist": "Carl Perkins"
+ },
+ {
+   "Song": "Bodhisattva",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Bohemian Rhapsody",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Boogie With Stu",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Boom Boom Out Go The Lights (Live)",
+   "Artist": "Pat Travers Band"
+ },
+ {
+   "Song": "Born In East L.A.",
+   "Artist": "Cheech & Chong"
+ },
+ {
+   "Song": "Born In The Usa",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Born On The Bayou",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Born To Be Wild",
+   "Artist": "Steppenwolf"
+ },
+ {
+   "Song": "Born To Run",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Boulevard",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "Box Of Rain",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Boxer, The",
+   "Artist": "Simon & Garfunkel"
+ },
+ {
+   "Song": "Boy Named Sue, A",
+   "Artist": "Johnny Cash"
+ },
+ {
+   "Song": "Boys Are Back In Town",
+   "Artist": "Thin Lizzy"
+ },
+ {
+   "Song": "Boys Of Summer",
+   "Artist": "Don Henley"
+ },
+ {
+   "Song": "Brain Damage/Eclipse",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Brandy (You're A Fine Girl).",
+   "Artist": "Looking Glass"
+ },
+ {
+   "Song": "Brass In Pocket",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Break On Through (Live)",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Break On Through (To The Other Side)",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Breakdown",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Breakdown",
+   "Artist": "Alan Parsons Project"
+ },
+ {
+   "Song": "Breakfast In America",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "Breaking The Law",
+   "Artist": "Judas Priest"
+ },
+ {
+   "Song": "Breakup Song, The",
+   "Artist": "Greg Kihn"
+ },
+ {
+   "Song": "Breathe",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Brian Wilson",
+   "Artist": "Barenaked Ladies"
+ },
+ {
+   "Song": "Bridge Of Sighs",
+   "Artist": "Robin Trower"
+ },
+ {
+   "Song": "Brilliant Disguise",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Bringin' On The Heartbreak",
+   "Artist": "Def Leppard"
+ },
+ {
+   "Song": "Bron-Y-Aur Stomp",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Brother Louie",
+   "Artist": "Stories"
+ },
+ {
+   "Song": "Brown Eyed Girl",
+   "Artist": "Van Morrison"
+ },
+ {
+   "Song": "Brown Sugar",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Buffalo Soldier",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Build Me Up Buttercup",
+   "Artist": "Foundations"
+ },
+ {
+   "Song": "Bullet The Blue Sky",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Bungle In The Jungle",
+   "Artist": "Jethro Tull"
+ },
+ {
+   "Song": "Burn Down The Mission",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Burnin' For You",
+   "Artist": "B.O.C."
+ },
+ {
+   "Song": "Burnin' Sky",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Burning Down The House",
+   "Artist": "Talking Heads"
+ },
+ {
+   "Song": "Burning Love",
+   "Artist": "Elvis Presley"
+ },
+ {
+   "Song": "Bye Bye Love",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Cadillac Ranch",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "California",
+   "Artist": "Joni Mitchell"
+ },
+ {
+   "Song": "California Dreamin'",
+   "Artist": "Mamas & The Papas"
+ },
+ {
+   "Song": "California Girls",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "California Man",
+   "Artist": "Cheap Trick"
+ },
+ {
+   "Song": "Call Me",
+   "Artist": "Blondie"
+ },
+ {
+   "Song": "Call Me The Breeze",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Calling Dr. Love",
+   "Artist": "Kiss"
+ },
+ {
+   "Song": "Canary In A Coalmine",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Candy",
+   "Artist": "Iggy Pop"
+ },
+ {
+   "Song": "Candy's Room",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Can't Buy Me Love",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Can't Fight This Feeling",
+   "Artist": "Reo Speedwagon"
+ },
+ {
+   "Song": "Can't Find My Way Home",
+   "Artist": "Blind Faith"
+ },
+ {
+   "Song": "Can't Get Enough",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Can't Get It Out Of My Head",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Can't Stand Losing You",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Can't You Hear Me Knockn",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Can't You See",
+   "Artist": "Marshall Tucker Band"
+ },
+ {
+   "Song": "Can'tcha Say",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Carouselambra",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Carry On",
+   "Artist": "Crosby Stills Nash & Young"
+ },
+ {
+   "Song": "Carry On Wayward Son",
+   "Artist": "Kansas"
+ },
+ {
+   "Song": "Cars",
+   "Artist": "Gary Numan"
+ },
+ {
+   "Song": "Casey Jones",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Castles Made Of Sand",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Cat People",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Cat Scratch Fever",
+   "Artist": "Ted Nugent"
+ },
+ {
+   "Song": "Catch Me Now I'm Falling",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "Cat's In The Cradle",
+   "Artist": "Harry Chapin"
+ },
+ {
+   "Song": "Caught Up In You",
+   "Artist": "38 Special"
+ },
+ {
+   "Song": "Cecilia",
+   "Artist": "Simon & Garfunkel"
+ },
+ {
+   "Song": "Centerfield",
+   "Artist": "John Fogerty"
+ },
+ {
+   "Song": "Centerfold",
+   "Artist": "J. Geils Band"
+ },
+ {
+   "Song": "Century City",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Chain, The",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Change Of Heart",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Change The World",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Changeling, The",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Changes",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Cheap Sunglasses",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Check It Out",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Cheeseburger In Paradise",
+   "Artist": "Jimmy Buffett"
+ },
+ {
+   "Song": "Cherry Bomb",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Cherry Bomb",
+   "Artist": "Runaways"
+ },
+ {
+   "Song": "China Girl",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "China Grove",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Chuck E.'S In Love",
+   "Artist": "Rickie Lee Jones"
+ },
+ {
+   "Song": "Cinnamon Girl",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Cisco Kid, The",
+   "Artist": "War"
+ },
+ {
+   "Song": "City Of New Orleans",
+   "Artist": "Arlo Guthrie"
+ },
+ {
+   "Song": "Clampdown",
+   "Artist": "Clash"
+ },
+ {
+   "Song": "Clap For The Wolfman",
+   "Artist": "Guess Who"
+ },
+ {
+   "Song": "Classical Gas",
+   "Artist": "Mason Williams"
+ },
+ {
+   "Song": "Cleveland Rocks",
+   "Artist": "Ian Hunter"
+ },
+ {
+   "Song": "Closer To Fine",
+   "Artist": "Indigo Girls"
+ },
+ {
+   "Song": "Closer To The Heart",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Closing Time",
+   "Artist": "Semisonic"
+ },
+ {
+   "Song": "Cocaine",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Coconut",
+   "Artist": "Nilsson"
+ },
+ {
+   "Song": "Cold As Ice",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Cold Shot",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "Colour My World",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Come And Get It",
+   "Artist": "Badfinger"
+ },
+ {
+   "Song": "Come Dancing",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "Come Monday",
+   "Artist": "Jimmy Buffett"
+ },
+ {
+   "Song": "Come On Let's Go",
+   "Artist": "Los Lobos"
+ },
+ {
+   "Song": "Come Sail Away",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Come To My Window",
+   "Artist": "Melissa Etheridge"
+ },
+ {
+   "Song": "Come To Poppa",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Come Together",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Comfortably Numb",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Communication Breakdown",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Core, The",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Could You Be Loved",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Couldn't Get It Right",
+   "Artist": "Climax Blues Band"
+ },
+ {
+   "Song": "Couldn't Stand The Weather",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "Cover Me",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Cover Of The \"Rolling Stone\", The",
+   "Artist": "Dr. Hook"
+ },
+ {
+   "Song": "Cowboy Song",
+   "Artist": "Thin Lizzy"
+ },
+ {
+   "Song": "Cradle Of Love",
+   "Artist": "Billy Idol"
+ },
+ {
+   "Song": "Crazy Little Thing Called Love",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Crazy Love",
+   "Artist": "Poco"
+ },
+ {
+   "Song": "Crazy On You",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "Crazy Train",
+   "Artist": "Ozzy Osbourne"
+ },
+ {
+   "Song": "Creep",
+   "Artist": "Stone Temple Pilots"
+ },
+ {
+   "Song": "Creep",
+   "Artist": "Radiohead"
+ },
+ {
+   "Song": "Crimson And Clover",
+   "Artist": "Joan Jett"
+ },
+ {
+   "Song": "Crocodile Rock",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Crossfire",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "Crossroads",
+   "Artist": "Cream"
+ },
+ {
+   "Song": "Crosstown Traffic",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Crumblin' Down",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Cry Baby",
+   "Artist": "Janis Joplin"
+ },
+ {
+   "Song": "Crystal Ball",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Cult Of Personality",
+   "Artist": "Living Color"
+ },
+ {
+   "Song": "Cum On Feel The Noize",
+   "Artist": "Quiet Riot"
+ },
+ {
+   "Song": "Custard Pie",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Cuts Like A Knife",
+   "Artist": "Bryan Adams"
+ },
+ {
+   "Song": "Dance Sister Dance",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "Dance The Night Away",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Dance To The Music",
+   "Artist": "Sly & The Family Stone"
+ },
+ {
+   "Song": "Dancin' Fool",
+   "Artist": "Frank Zappa"
+ },
+ {
+   "Song": "Dancing Days",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Dancing In The Dark",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Dancing In The Moonlight",
+   "Artist": "Thin Lizzy"
+ },
+ {
+   "Song": "Dancing In The Street",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Dancing With Mr. D",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Dancing With Myself",
+   "Artist": "Billy Idol"
+ },
+ {
+   "Song": "Danger Zone",
+   "Artist": "Kenny Loggins"
+ },
+ {
+   "Song": "Dangerous Type",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Dark Star",
+   "Artist": "Crosby Stills & Nash"
+ },
+ {
+   "Song": "Darkness On The Edge Of Town",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Daughter",
+   "Artist": "Pearl Jam"
+ },
+ {
+   "Song": "Day After Day",
+   "Artist": "Badfinger"
+ },
+ {
+   "Song": "Day Tripper",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Dazed And Confused",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "De Do Do Do De Da Da Da",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Deacon Blues",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Dead Mans Party",
+   "Artist": "Oingo Boingo"
+ },
+ {
+   "Song": "Dead Skunk",
+   "Artist": "Loudon Wainwright Iii"
+ },
+ {
+   "Song": "Dear Prudence",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "December",
+   "Artist": "Collective Soul"
+ },
+ {
+   "Song": "Demolition Man",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Departure/Ride My Seesaw",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "Depending On You",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Desire",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Desperado",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Destroyer",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "Detroit Rock City",
+   "Artist": "Kiss"
+ },
+ {
+   "Song": "Devil Inside",
+   "Artist": "Inxs"
+ },
+ {
+   "Song": "Devil Went Down To Georgia",
+   "Artist": "Charlie Daniels Band"
+ },
+ {
+   "Song": "Devil With A Blue Dress (Live)",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Dialogue (Parts 1 & 2)",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Diamond Dogs",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Diamond Girl",
+   "Artist": "Seals & Crofts"
+ },
+ {
+   "Song": "Diamonds On The Soles Of Her Shoes",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "Different Drum",
+   "Artist": "Linda Ronstadt"
+ },
+ {
+   "Song": "Dig A Pony",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Digging In The Dirt",
+   "Artist": "Peter Gabriel"
+ },
+ {
+   "Song": "Dirty Deeds Done Dirt Cheap",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Dirty Laundry",
+   "Artist": "Don Henley"
+ },
+ {
+   "Song": "Dirty Water",
+   "Artist": "Standells"
+ },
+ {
+   "Song": "Dirty White Boy",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Dirty Work",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Dizz Knee Land",
+   "Artist": "Dada"
+ },
+ {
+   "Song": "Do It Again",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Do Wah Diddy Diddy",
+   "Artist": "Manfred Mann"
+ },
+ {
+   "Song": "Do Ya",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Do Ya Think I'm Sexy",
+   "Artist": "Rod Stewart"
+ },
+ {
+   "Song": "Do You Feel Like We Do",
+   "Artist": "Peter Frampton"
+ },
+ {
+   "Song": "Do You Know What I Mean",
+   "Artist": "Lee Michaels"
+ },
+ {
+   "Song": "Do You Remember R&R Radio",
+   "Artist": "Ramones"
+ },
+ {
+   "Song": "Do You Want To Know A Secret",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Doctor Doctor",
+   "Artist": "Ufo"
+ },
+ {
+   "Song": "Doctor My Eyes",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "Doctor Wu",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Does Anybody Really Know What Time It Is",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Dog & Butterfly",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "Domino",
+   "Artist": "Van Morrison"
+ },
+ {
+   "Song": "Don't Ask Me No Questions",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Don't Ask Me Why",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "Don't Be Cruel",
+   "Artist": "Cheap Trick"
+ },
+ {
+   "Song": "Don't Bring Me Down",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Don't Bring Me Down",
+   "Artist": "Animals"
+ },
+ {
+   "Song": "Don't Bring Me Down (Live)",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Don't Come Around Here No More",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Don't Do Me Like That",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Don't Eat The Yellow Snow",
+   "Artist": "Frank Zappa"
+ },
+ {
+   "Song": "Don't Fear The Reaper",
+   "Artist": "B.O.C."
+ },
+ {
+   "Song": "Don't Get Me Wrong",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Don't Go Breaking My Heart",
+   "Artist": "Elton John & Kiki Dee"
+ },
+ {
+   "Song": "Don't Let Him Go",
+   "Artist": "Reo Speedwagon"
+ },
+ {
+   "Song": "Don't Let The Sun Go Down On Me",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Don't Look Back",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Don't Lose My Number",
+   "Artist": "Phil Collins"
+ },
+ {
+   "Song": "Don't Stand So Close To Me",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Don't Stop",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Don't Stop Believin'",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Don't Try To Lay No Boogie Woogie",
+   "Artist": "Long John Baldry"
+ },
+ {
+   "Song": "Don't Worry Baby",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Don't You Forget About Me",
+   "Artist": "Simple Minds"
+ },
+ {
+   "Song": "Don't You Worry 'Bout A Thing",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "Doo Doo Doo Heartbreaker",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Double Vision",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Down By The Seaside",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Down On Me (Live)",
+   "Artist": "Janis Joplin And Big Brother And The Holding Company"
+ },
+ {
+   "Song": "Down On The Corner",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Down Under",
+   "Artist": "Men At Work"
+ },
+ {
+   "Song": "Draggin' The Line",
+   "Artist": "Tommy James"
+ },
+ {
+   "Song": "Dragon Attack",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Dreadlock Holiday",
+   "Artist": "10Cc"
+ },
+ {
+   "Song": "Dream On",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Dream Police",
+   "Artist": "Cheap Trick"
+ },
+ {
+   "Song": "Dream Weaver",
+   "Artist": "Gary Wright"
+ },
+ {
+   "Song": "Dreamer",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "Dreams",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Dreams",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Dreams I'll Never See",
+   "Artist": "Molly Hatchet"
+ },
+ {
+   "Song": "Drift Away",
+   "Artist": "Dobie Gray"
+ },
+ {
+   "Song": "Drive",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Drive My Car",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Driven To Tears",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Driver's Seat",
+   "Artist": "Sniff N The Tears"
+ },
+ {
+   "Song": "Dude (Looks Like A Lady)",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Dust In The Wind",
+   "Artist": "Kansas"
+ },
+ {
+   "Song": "D'yer Maker",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Dance Sister Dance",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "Dance The Night Away",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Dance To The Music",
+   "Artist": "Sly & The Family Stone"
+ },
+ {
+   "Song": "Dancin' Fool",
+   "Artist": "Frank Zappa"
+ },
+ {
+   "Song": "Dancing Days",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Dancing In The Dark",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Dancing In The Moonlight",
+   "Artist": "Thin Lizzy"
+ },
+ {
+   "Song": "Dancing In The Street",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Dancing With Mr. D",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Dancing With Myself",
+   "Artist": "Billy Idol"
+ },
+ {
+   "Song": "Danger Zone",
+   "Artist": "Kenny Loggins"
+ },
+ {
+   "Song": "Dangerous Type",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Dark Star",
+   "Artist": "Crosby Stills & Nash"
+ },
+ {
+   "Song": "Darkness On The Edge Of Town",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Daughter",
+   "Artist": "Pearl Jam"
+ },
+ {
+   "Song": "Day After Day",
+   "Artist": "Badfinger"
+ },
+ {
+   "Song": "Day Tripper",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Dazed And Confused",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "De Do Do Do De Da Da Da",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Deacon Blues",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Dead Mans Party",
+   "Artist": "Oingo Boingo"
+ },
+ {
+   "Song": "Dead Skunk",
+   "Artist": "Loudon Wainwright Iii"
+ },
+ {
+   "Song": "Dear Prudence",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "December",
+   "Artist": "Collective Soul"
+ },
+ {
+   "Song": "Demolition Man",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Departure/Ride My Seesaw",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "Depending On You",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Desire",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Desperado",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Destroyer",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "Detroit Rock City",
+   "Artist": "Kiss"
+ },
+ {
+   "Song": "Devil Inside",
+   "Artist": "Inxs"
+ },
+ {
+   "Song": "Devil Went Down To Georgia",
+   "Artist": "Charlie Daniels Band"
+ },
+ {
+   "Song": "Devil With A Blue Dress (Live)",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Dialogue (Parts 1 & 2)",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Diamond Dogs",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Diamond Girl",
+   "Artist": "Seals & Crofts"
+ },
+ {
+   "Song": "Diamonds On The Soles Of Her Shoes",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "Different Drum",
+   "Artist": "Linda Ronstadt"
+ },
+ {
+   "Song": "Dig A Pony",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Digging In The Dirt",
+   "Artist": "Peter Gabriel"
+ },
+ {
+   "Song": "Dirty Deeds Done Dirt Cheap",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Dirty Laundry",
+   "Artist": "Don Henley"
+ },
+ {
+   "Song": "Dirty Water",
+   "Artist": "Standells"
+ },
+ {
+   "Song": "Dirty White Boy",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Dirty Work",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Dizz Knee Land",
+   "Artist": "Dada"
+ },
+ {
+   "Song": "Do It Again",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Do Wah Diddy Diddy",
+   "Artist": "Manfred Mann"
+ },
+ {
+   "Song": "Do Ya",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Do Ya Think I'm Sexy",
+   "Artist": "Rod Stewart"
+ },
+ {
+   "Song": "Do You Feel Like We Do",
+   "Artist": "Peter Frampton"
+ },
+ {
+   "Song": "Do You Know What I Mean",
+   "Artist": "Lee Michaels"
+ },
+ {
+   "Song": "Do You Remember R&R Radio",
+   "Artist": "Ramones"
+ },
+ {
+   "Song": "Do You Want To Know A Secret",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Doctor Doctor",
+   "Artist": "Ufo"
+ },
+ {
+   "Song": "Doctor My Eyes",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "Doctor Wu",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Does Anybody Really Know What Time It Is",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Dog & Butterfly",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "Domino",
+   "Artist": "Van Morrison"
+ },
+ {
+   "Song": "Don't Ask Me No Questions",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Don't Ask Me Why",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "Don't Be Cruel",
+   "Artist": "Cheap Trick"
+ },
+ {
+   "Song": "Don't Bring Me Down",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Don't Bring Me Down",
+   "Artist": "Animals"
+ },
+ {
+   "Song": "Don't Bring Me Down (Live)",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Don't Come Around Here No More",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Don't Do Me Like That",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Don't Eat The Yellow Snow",
+   "Artist": "Frank Zappa"
+ },
+ {
+   "Song": "Don't Fear The Reaper",
+   "Artist": "B.O.C."
+ },
+ {
+   "Song": "Don't Get Me Wrong",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Don't Go Breaking My Heart",
+   "Artist": "Elton John & Kiki Dee"
+ },
+ {
+   "Song": "Don't Let Him Go",
+   "Artist": "Reo Speedwagon"
+ },
+ {
+   "Song": "Don't Let The Sun Go Down On Me",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Don't Look Back",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Don't Lose My Number",
+   "Artist": "Phil Collins"
+ },
+ {
+   "Song": "Don't Stand So Close To Me",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Don't Stop",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Don't Stop Believin'",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Don't Try To Lay No Boogie Woogie",
+   "Artist": "Long John Baldry"
+ },
+ {
+   "Song": "Don't Worry Baby",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Don't You Forget About Me",
+   "Artist": "Simple Minds"
+ },
+ {
+   "Song": "Don't You Worry 'Bout A Thing",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "Doo Doo Doo Heartbreaker",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Double Vision",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Down By The Seaside",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Down On Me (Live)",
+   "Artist": "Janis Joplin And Big Brother And The Holding Company"
+ },
+ {
+   "Song": "Down On The Corner",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Down Under",
+   "Artist": "Men At Work"
+ },
+ {
+   "Song": "Draggin' The Line",
+   "Artist": "Tommy James"
+ },
+ {
+   "Song": "Dragon Attack",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Dreadlock Holiday",
+   "Artist": "10Cc"
+ },
+ {
+   "Song": "Dream On",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Dream Police",
+   "Artist": "Cheap Trick"
+ },
+ {
+   "Song": "Dream Weaver",
+   "Artist": "Gary Wright"
+ },
+ {
+   "Song": "Dreamer",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "Dreams",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Dreams",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Dreams I'll Never See",
+   "Artist": "Molly Hatchet"
+ },
+ {
+   "Song": "Drift Away",
+   "Artist": "Dobie Gray"
+ },
+ {
+   "Song": "Drive",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Drive My Car",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Driven To Tears",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Driver's Seat",
+   "Artist": "Sniff N The Tears"
+ },
+ {
+   "Song": "Dude (Looks Like A Lady)",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Dust In The Wind",
+   "Artist": "Kansas"
+ },
+ {
+   "Song": "D'yer Maker",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Earache My Eye",
+   "Artist": "Cheech & Chong"
+ },
+ {
+   "Song": "Edge Of Seventeen",
+   "Artist": "Stevie Nicks"
+ },
+ {
+   "Song": "Eight Days A Week",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Eight Six Seven 5309 (Jenny)",
+   "Artist": "Tommy Tutone"
+ },
+ {
+   "Song": "Elderly Woman Behind A Counter In A Small Town",
+   "Artist": "Pearl Jam"
+ },
+ {
+   "Song": "Eleanor Rigby",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Elected",
+   "Artist": "Alice Cooper"
+ },
+ {
+   "Song": "Electric Avenue",
+   "Artist": "Eddie Grant"
+ },
+ {
+   "Song": "Elevation",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Eminence Front",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Emotional Rescue",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Empty Pages",
+   "Artist": "Traffic"
+ },
+ {
+   "Song": "Empty Spaces/Young Lust",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "End Of The Innocence, The",
+   "Artist": "Don Henley"
+ },
+ {
+   "Song": "End Of The Line",
+   "Artist": "Traveling Wilburys"
+ },
+ {
+   "Song": "End, The",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Enter Sandman",
+   "Artist": "Metallica"
+ },
+ {
+   "Song": "Even Better Than The Real Thing",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Even Flow",
+   "Artist": "Pearl Jam"
+ },
+ {
+   "Song": "Even It Up",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "Even Now",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Even The Losers",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Everlong",
+   "Artist": "Foo Fighters"
+ },
+ {
+   "Song": "Every Breath You Take",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Every Little Thing She Does",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Every Picture Tells A Story",
+   "Artist": "Rod Stewart"
+ },
+ {
+   "Song": "Every Rose Has Its Thorn",
+   "Artist": "Poison"
+ },
+ {
+   "Song": "Every Time I Think Of You",
+   "Artist": "Babys"
+ },
+ {
+   "Song": "Everybody Have Fun Tonight",
+   "Artist": "Wang Chung"
+ },
+ {
+   "Song": "Everybody Hurts",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "Everybody Wants Some!",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Everybody Wants You",
+   "Artist": "Billy Squier"
+ },
+ {
+   "Song": "Everybody's Everything",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "Everybody's Got Something To Hide",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Everyday I Write The Book",
+   "Artist": "Elvis Costello"
+ },
+ {
+   "Song": "Everything's Coming Our Way",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "Everywhere",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Evil Ways",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "Evil Woman",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Excitable Boy",
+   "Artist": "Warren Zevon"
+ },
+ {
+   "Song": "Exodus",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Eye Of The Tiger",
+   "Artist": "Survivor"
+ },
+ {
+   "Song": "Eyes Without A Face",
+   "Artist": "Billy Idol"
+ },
+ {
+   "Song": "Face The Face",
+   "Artist": "Pete Townshend"
+ },
+ {
+   "Song": "Faithfully",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Fall On Me",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "Fame",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Family Affair",
+   "Artist": "Sly & The Family Stone"
+ },
+ {
+   "Song": "Fanfare For The Common Man",
+   "Artist": "Emerson Lake & Palmer"
+ },
+ {
+   "Song": "Fashion",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Fat Bottomed Girls",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Fearless",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Feel Like A Number",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Feel Like Makin' Love",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Feelin' Satisfied",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Feelin' Stronger Every Day",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Feeling Alright",
+   "Artist": "Traffic"
+ },
+ {
+   "Song": "Feeling That Way/Anytime",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Feels Like The First Time",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Fell On Black Days (Live)",
+   "Artist": "Chris Cornell"
+ },
+ {
+   "Song": "Fever, The",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Fifty Seven Channels",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Fifty Ways To Leave Your Lover",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "Find Your Way Back",
+   "Artist": "Jefferson Starship"
+ },
+ {
+   "Song": "Finer Things, The",
+   "Artist": "Steve Winwood"
+ },
+ {
+   "Song": "Fire",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Fire",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Fire And Rain",
+   "Artist": "James Taylor"
+ },
+ {
+   "Song": "Fire Down Below",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Fire On High",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Fire On The Mountain",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Fire Woman",
+   "Artist": "Cult"
+ },
+ {
+   "Song": "First Cut Is The Deepest, The",
+   "Artist": "Rod Stewart"
+ },
+ {
+   "Song": "Five Fifteen",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Five To One",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Flame, The",
+   "Artist": "Cheap Trick"
+ },
+ {
+   "Song": "Flesh For Fantasy",
+   "Artist": "Billy Idol"
+ },
+ {
+   "Song": "Flirtin' With Disaster",
+   "Artist": "Molly Hatchet"
+ },
+ {
+   "Song": "Fly By Night",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Fly Like An Eagle",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Flying High Again",
+   "Artist": "Ozzy Osbourne"
+ },
+ {
+   "Song": "Fm (No Static At All)",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Follow You Follow Me",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Folsom Prison Blues",
+   "Artist": "Johnny Cash"
+ },
+ {
+   "Song": "Fool For The City",
+   "Artist": "Foghat"
+ },
+ {
+   "Song": "Fool In The Rain",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Fool To Cry",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Fooled Around And Fell In Love",
+   "Artist": "Elvin Bishop"
+ },
+ {
+   "Song": "Foolin'",
+   "Artist": "Def Leppard"
+ },
+ {
+   "Song": "Fooling Yourself",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Footloose",
+   "Artist": "Kenny Loggins"
+ },
+ {
+   "Song": "Footstompin' Music",
+   "Artist": "Grand Funk"
+ },
+ {
+   "Song": "For No One",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "For The Longest Time",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "For Those About To Rock",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "For What It's Worth",
+   "Artist": "Buffalo Springfield"
+ },
+ {
+   "Song": "Foreplay/Longtime",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Forever Man",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Fortunate Son",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Four Sticks",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Fox On The Run",
+   "Artist": "Sweet"
+ },
+ {
+   "Song": "Foxey Lady",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Frankenstein",
+   "Artist": "Edgar Winter Group"
+ },
+ {
+   "Song": "Free Bird",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Free Fallin'",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Free Ride",
+   "Artist": "Edgar Winter Group"
+ },
+ {
+   "Song": "Freedom",
+   "Artist": "Richie Havens"
+ },
+ {
+   "Song": "Freewill",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Freeze Frame",
+   "Artist": "J. Geils Band"
+ },
+ {
+   "Song": "From Me To You",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "From The Beginning",
+   "Artist": "Emerson Lake & Palmer"
+ },
+ {
+   "Song": "Fun, Fun, Fun.",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Funk #49",
+   "Artist": "James Gang"
+ },
+ {
+   "Song": "Future's So Bright, I Gotta Wear Shades, The",
+   "Artist": "Timbuk 3"
+ },
+ {
+   "Song": "Gallows Pole",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Games People Play",
+   "Artist": "Alan Parsons Project"
+ },
+ {
+   "Song": "Games Without Frontiers",
+   "Artist": "Peter Gabriel"
+ },
+ {
+   "Song": "Garden Party",
+   "Artist": "Rick Nelson"
+ },
+ {
+   "Song": "Gentle On My Mind",
+   "Artist": "Glen Campbell"
+ },
+ {
+   "Song": "Get Back",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Get Off Of My Cloud",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Get Together",
+   "Artist": "Youngbloods"
+ },
+ {
+   "Song": "Get Up Stand Up",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Getting Better",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Ghost Riders In The Sky",
+   "Artist": "Outlaws"
+ },
+ {
+   "Song": "Gimme All Your Lovin",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Gimme Shelter",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Gimme Some Lovin'",
+   "Artist": "Spencer Davis Group"
+ },
+ {
+   "Song": "Gimme Some Money",
+   "Artist": "Spinal Tap"
+ },
+ {
+   "Song": "Gimme Some Water",
+   "Artist": "Eddie Money"
+ },
+ {
+   "Song": "Gimme Three Steps",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Girl",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Girl Can't Help It",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Girl Like You, A",
+   "Artist": "Edwyn Collins"
+ },
+ {
+   "Song": "Girl U Want",
+   "Artist": "Devo"
+ },
+ {
+   "Song": "Girls Girls Girls",
+   "Artist": "Motley Crue"
+ },
+ {
+   "Song": "Girls Got Rhythm",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Give A Little Bit",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "Give Blood",
+   "Artist": "Pete Townshend"
+ },
+ {
+   "Song": "Give It To Me",
+   "Artist": "J. Geils Band"
+ },
+ {
+   "Song": "Give Me Love (Give Me Peace On Earth)",
+   "Artist": "George Harrison"
+ },
+ {
+   "Song": "Give Peace A Chance",
+   "Artist": "John Lennon"
+ },
+ {
+   "Song": "Giving The Dog A Bone",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Glass Onion",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Gloria",
+   "Artist": "Them"
+ },
+ {
+   "Song": "Glory Days",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Go All The Way",
+   "Artist": "Raspberries"
+ },
+ {
+   "Song": "Go Insane",
+   "Artist": "Lindsey Buckingham"
+ },
+ {
+   "Song": "Go Your Own Way",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "God Only Knows",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "God Part 2",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Godzilla",
+   "Artist": "Blue Oyster Cult"
+ },
+ {
+   "Song": "Going Mobile",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Going To A Go-Go (Live)",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Going To California",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Going Up The Country",
+   "Artist": "Canned Heat"
+ },
+ {
+   "Song": "Gold",
+   "Artist": "John Stewart & Stevie Nicks"
+ },
+ {
+   "Song": "Gold Dust Woman",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Golden Country",
+   "Artist": "Reo Speedwagon"
+ },
+ {
+   "Song": "Golden Slumbers Medley",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Golden Years",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Good Day Sunshine",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Good Lovin'",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Good Lovin'",
+   "Artist": "The Rascals"
+ },
+ {
+   "Song": "Good Lovin' Gone Bad",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Good Morning, Good Morning",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Good Riddance (Time Of Your Life)",
+   "Artist": "Green Day"
+ },
+ {
+   "Song": "Good Times Bad Times",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Good Times Roll",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Good Vibrations",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Goodbye Stranger",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "Goodbye Yellow Brick Road",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Got Me Under Pressure",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Got My Mind Set On You",
+   "Artist": "George Harrison"
+ },
+ {
+   "Song": "Got My Mojo Working",
+   "Artist": "Muddy Waters"
+ },
+ {
+   "Song": "Got To Get You Into My Life (Live)",
+   "Artist": "Paul Mccartney"
+ },
+ {
+   "Song": "Graceland",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "Grand Illusion, The",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Green Grass & High Tides",
+   "Artist": "Outlaws"
+ },
+ {
+   "Song": "Green Onions",
+   "Artist": "Booker T & The Mg's"
+ },
+ {
+   "Song": "Green River",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Groovin'",
+   "Artist": "The Rascals"
+ },
+ {
+   "Song": "Gypsy",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Hair Of The Dog",
+   "Artist": "Nazareth"
+ },
+ {
+   "Song": "Hallelujah",
+   "Artist": "Jeff Buckley"
+ },
+ {
+   "Song": "Hand To Hold On To",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Handle With Care",
+   "Artist": "Traveling Wilburys"
+ },
+ {
+   "Song": "Hang Fire",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Happiness Is A Warm Gun",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Happy",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Hard Day's Night, A",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Hard To Handle",
+   "Artist": "Black Crowes"
+ },
+ {
+   "Song": "Harden My Heart",
+   "Artist": "Quarterflash"
+ },
+ {
+   "Song": "Harlem Shuffle",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Harry Truman",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Harvest",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Have A Cigar",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Have A Drink On Me",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Have You Ever Seen The Rain",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Hawaii Five-0",
+   "Artist": "Ventures"
+ },
+ {
+   "Song": "Head Games",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Heard It In A Love Song",
+   "Artist": "Marshall Tucker Band"
+ },
+ {
+   "Song": "Heard It On The X",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Heart Full Of Soul",
+   "Artist": "Yardbirds"
+ },
+ {
+   "Song": "Heart Of Gold",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Heart Of Rock & Roll",
+   "Artist": "Huey Lewis And The News"
+ },
+ {
+   "Song": "Heart Of The Matter",
+   "Artist": "Don Henley"
+ },
+ {
+   "Song": "Heart Of The Night",
+   "Artist": "Poco"
+ },
+ {
+   "Song": "Heartache Tonight",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Heartbreaker",
+   "Artist": "Pat Benatar"
+ },
+ {
+   "Song": "Heartbreaker/Livin Lovin Maid",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Heartless",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "Heat Is On, The",
+   "Artist": "Glenn Frey"
+ },
+ {
+   "Song": "Heat Of The Moment",
+   "Artist": "Asia"
+ },
+ {
+   "Song": "Heat Wave",
+   "Artist": "Linda Ronstadt"
+ },
+ {
+   "Song": "Heaven",
+   "Artist": "Warrant"
+ },
+ {
+   "Song": "Helen Wheels",
+   "Artist": "Paul Mccartney"
+ },
+ {
+   "Song": "Hell In A Bucket",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Hell Is For Children",
+   "Artist": "Pat Benatar"
+ },
+ {
+   "Song": "Hello Again",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Hello Goodbye",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Hello I Love You",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Hello It's Me",
+   "Artist": "Todd Rundgren"
+ },
+ {
+   "Song": "Hells Bells",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Help Me",
+   "Artist": "Joni Mitchell"
+ },
+ {
+   "Song": "Help Me Rhonda",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Help!",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Helplessly Hoping",
+   "Artist": "Crosby Stills & Nash"
+ },
+ {
+   "Song": "Helter Skelter",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Her Majesty",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Her Strut",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Here Comes My Girl",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Here Comes The Rain Again",
+   "Artist": "Eurythmics"
+ },
+ {
+   "Song": "Here Comes The Sun",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Here Comes Your Man",
+   "Artist": "Pixies"
+ },
+ {
+   "Song": "Here I Go Again",
+   "Artist": "Whitesnake"
+ },
+ {
+   "Song": "Heroes",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Hey Hey My My (Black)",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Hey Hey What Can I Do",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Hey Jealousy",
+   "Artist": "Gin Blossoms"
+ },
+ {
+   "Song": "Hey Joe",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Hey Jude",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Hey Nineteen",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Hey Tonight",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Hey You",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Higher Ground",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "Higher Love",
+   "Artist": "Steve Winwood"
+ },
+ {
+   "Song": "Highway Star",
+   "Artist": "Deep Purple"
+ },
+ {
+   "Song": "Highway To Hell",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Hip To Be Square",
+   "Artist": "Huey Lewis And The News"
+ },
+ {
+   "Song": "Hit Me With Your Best Shot",
+   "Artist": "Pat Benatar"
+ },
+ {
+   "Song": "Hitch A Ride",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Hocus Pocus",
+   "Artist": "Focus"
+ },
+ {
+   "Song": "Hold Me",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Hold On Loosely",
+   "Artist": "38 Special"
+ },
+ {
+   "Song": "Hold On Tight",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Hold The Line",
+   "Artist": "Toto"
+ },
+ {
+   "Song": "Hold Your Head Up",
+   "Artist": "Argent"
+ },
+ {
+   "Song": "Hole In My Life",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Hollywood Nights",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Holy Diver",
+   "Artist": "Dio"
+ },
+ {
+   "Song": "Home By The Sea",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Homeward Bound",
+   "Artist": "Simon & Garfunkel"
+ },
+ {
+   "Song": "Honky Cat",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Honky Tonk Women",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Horse With No Name, A",
+   "Artist": "America"
+ },
+ {
+   "Song": "Hot Blooded",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Hot Child In The City",
+   "Artist": "Nick Gilder"
+ },
+ {
+   "Song": "Hot Dog",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Hot For Teacher",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Hot Legs",
+   "Artist": "Rod Stewart"
+ },
+ {
+   "Song": "Hot Rod Lincoln",
+   "Artist": "Commander Cody"
+ },
+ {
+   "Song": "Hotel California",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Hound Dog",
+   "Artist": "Elvis Presley"
+ },
+ {
+   "Song": "House Is Rockin', The",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "House Of The Rising Sun, The",
+   "Artist": "Animals"
+ },
+ {
+   "Song": "Houses Of The Holy",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "How Can I Be Sure",
+   "Artist": "The Rascals"
+ },
+ {
+   "Song": "How Long",
+   "Artist": "Ace"
+ },
+ {
+   "Song": "How Soon Is Now",
+   "Artist": "Smiths"
+ },
+ {
+   "Song": "Human Touch",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Hunger Strike",
+   "Artist": "Temple Of The Dog"
+ },
+ {
+   "Song": "Hungry Heart",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Hurts So Good",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Hush",
+   "Artist": "Deep Purple"
+ },
+ {
+   "Song": "Hypnotized",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Hysteria",
+   "Artist": "Def Leppard"
+ },
+ {
+   "Song": "I Am A Rock",
+   "Artist": "Simon & Garfunkel"
+ },
+ {
+   "Song": "I Am I Said",
+   "Artist": "Neil Diamond"
+ },
+ {
+   "Song": "I Am The Walrus",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I Can See Clearly Now",
+   "Artist": "Johnny Nash"
+ },
+ {
+   "Song": "I Can See For Miles",
+   "Artist": "Who"
+ },
+ {
+   "Song": "I Can't Dance",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "I Can't Drive 55",
+   "Artist": "Sammy Hagar"
+ },
+ {
+   "Song": "I Can't Get No Satisfaction",
+   "Artist": "Devo"
+ },
+ {
+   "Song": "I Can't Get No Satisfaction",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "I Can't Quit You Baby",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "I Can't Stand It",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "I Can't Tell You Why",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "I Didn't Mean To Turn You On",
+   "Artist": "Robert Palmer"
+ },
+ {
+   "Song": "I Don't Care Anymore",
+   "Artist": "Phil Collins"
+ },
+ {
+   "Song": "I Don't Like Mondays",
+   "Artist": "Boomtown Rats"
+ },
+ {
+   "Song": "I Don't Want To Miss A Thing",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "I Drink Alone",
+   "Artist": "George Thorogood"
+ },
+ {
+   "Song": "I Feel Fine",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I Feel Good",
+   "Artist": "James Brown"
+ },
+ {
+   "Song": "I Feel The Earth Move",
+   "Artist": "Carole King"
+ },
+ {
+   "Song": "I Fought The Law",
+   "Artist": "Clash [+] Bobby Fuller Four"
+ },
+ {
+   "Song": "I Fought The Law",
+   "Artist": "Clash"
+ },
+ {
+   "Song": "I Get Around",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "I Got A Line On You",
+   "Artist": "Spirit"
+ },
+ {
+   "Song": "I Got You (I Feel Good)",
+   "Artist": "James Brown"
+ },
+ {
+   "Song": "I Hate Myself For Loving You",
+   "Artist": "Joan Jett"
+ },
+ {
+   "Song": "I Heard It Through The Grapevine",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "I Just Wanna Make Love",
+   "Artist": "Foghat"
+ },
+ {
+   "Song": "I Just Wanna Stop",
+   "Artist": "Gino Vannelli"
+ },
+ {
+   "Song": "I Just Want To Celebrate",
+   "Artist": "Rare Earth"
+ },
+ {
+   "Song": "I Keep Forgettin'",
+   "Artist": "Michael Mcdonald"
+ },
+ {
+   "Song": "I Know I'm Losing You",
+   "Artist": "Rod Stewart"
+ },
+ {
+   "Song": "I Know I'm Losing You",
+   "Artist": "Rare Earth"
+ },
+ {
+   "Song": "I Know You're Out There Somewhere",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "I Love L.A.",
+   "Artist": "Randy Newman"
+ },
+ {
+   "Song": "I Love Rock & Roll",
+   "Artist": "Joan Jett"
+ },
+ {
+   "Song": "I Melt With You",
+   "Artist": "Modern English"
+ },
+ {
+   "Song": "I Missed Again",
+   "Artist": "Phil Collins"
+ },
+ {
+   "Song": "I Need A Lover",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "I Need To Know",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "I Put A Spell On You",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "I Ran",
+   "Artist": "A Flock Of Seagulls"
+ },
+ {
+   "Song": "I Robot",
+   "Artist": "Alan Parsons Project"
+ },
+ {
+   "Song": "I Saw Her Standing There",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I Saw The Light",
+   "Artist": "Todd Rundgren"
+ },
+ {
+   "Song": "I Shot The Sheriff",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "I Should Have Known Better",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I Still Haven't Found What I'm Looking For",
+   "Artist": "U2"
+ },
+ {
+   "Song": "I Thank You",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "I Walk The Line",
+   "Artist": "Johnny Cash"
+ },
+ {
+   "Song": "I Wanna Be Sedated",
+   "Artist": "Ramones"
+ },
+ {
+   "Song": "I Want A New Drug",
+   "Artist": "Huey Lewis & The News"
+ },
+ {
+   "Song": "I Want To Hold Your Hand",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I Want To Know What Love Is",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "I Want To Tell You",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I Want You (She's So Heavy)",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I Want You To Want Me (Live)",
+   "Artist": "Cheap Trick"
+ },
+ {
+   "Song": "I Will Follow",
+   "Artist": "U2"
+ },
+ {
+   "Song": "I Wish",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "I Won't Back Down",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "I Wouldn't Want To Be Like You",
+   "Artist": "Alan Parsons Project"
+ },
+ {
+   "Song": "I.G.Y.",
+   "Artist": "Donald Fagan"
+ },
+ {
+   "Song": "Ice Cream Man",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "I'd Love To Change The World",
+   "Artist": "Ten Years After"
+ },
+ {
+   "Song": "If I Ever Lose My Faith In You",
+   "Artist": "Sting"
+ },
+ {
+   "Song": "If Not For You",
+   "Artist": "George Harrison"
+ },
+ {
+   "Song": "If You Can't Rock Me",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "If You Love Someone Set Them Free",
+   "Artist": "Sting"
+ },
+ {
+   "Song": "If You Wanna Get To Heaven",
+   "Artist": "Ozark Mountain Daredevils"
+ },
+ {
+   "Song": "If You Want Blood (You Got It)",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "I'll Be Back",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I'll Wait",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "I'm A Believer",
+   "Artist": "Monkees"
+ },
+ {
+   "Song": "I'm A King Bee",
+   "Artist": "Rolling Stones [+] Slim Harpo"
+ },
+ {
+   "Song": "I'm A Loser",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I'm A Man",
+   "Artist": "Spencer Davis Group"
+ },
+ {
+   "Song": "I'm Alright",
+   "Artist": "Kenny Loggins"
+ },
+ {
+   "Song": "I'm Bad I'm Nationwide",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "I'm Down",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I'm Eighteen",
+   "Artist": "Alice Cooper"
+ },
+ {
+   "Song": "I'm Goin' Down",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "I'm In Love With My Car",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "I'm In You",
+   "Artist": "Peter Frampton"
+ },
+ {
+   "Song": "I'm Just A Singer (In A Rock And Roll Band)",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "I'm Looking Through You",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I'm No Angel",
+   "Artist": "Gregg Allman"
+ },
+ {
+   "Song": "I'm Not In Love",
+   "Artist": "10Cc"
+ },
+ {
+   "Song": "I'm Not Your Stepping Stone",
+   "Artist": "Monkees"
+ },
+ {
+   "Song": "I'm On Fire",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "I'm Only Sleeping",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I'm So Glad",
+   "Artist": "Cream"
+ },
+ {
+   "Song": "Imagine",
+   "Artist": "John Lennon"
+ },
+ {
+   "Song": "Immigrant Song",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "In A Daydream",
+   "Artist": "Freddy Jones Band"
+ },
+ {
+   "Song": "In God's Country",
+   "Artist": "U2"
+ },
+ {
+   "Song": "In Memory Of Elizabeth Reed",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "In My Life",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "In My Room",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "In The Air Tonight",
+   "Artist": "Phil Collins"
+ },
+ {
+   "Song": "In The Beginning/Lovely To See You",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "In The City",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "In The Dark",
+   "Artist": "Billy Squier"
+ },
+ {
+   "Song": "In The Evening",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "In The Midnight Hour",
+   "Artist": "Wilson Pickett"
+ },
+ {
+   "Song": "In The Mood",
+   "Artist": "Robert Plant"
+ },
+ {
+   "Song": "In The Shape Of A Heart",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "In Too Deep",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "In Your Eyes",
+   "Artist": "Peter Gabriel"
+ },
+ {
+   "Song": "In-A-Gadda-Da-Vida",
+   "Artist": "Iron Butterfly"
+ },
+ {
+   "Song": "Industrial Disease",
+   "Artist": "Dire Straits"
+ },
+ {
+   "Song": "Instant Karma",
+   "Artist": "John Lennon"
+ },
+ {
+   "Song": "Interstate Love Song",
+   "Artist": "Stone Temple Pilots"
+ },
+ {
+   "Song": "Into The Great Wide Open",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Into The Mystic",
+   "Artist": "Van Morrison"
+ },
+ {
+   "Song": "Into The Night",
+   "Artist": "Benny Mardones"
+ },
+ {
+   "Song": "Intruder/(Oh) Pretty Woman",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Invincible",
+   "Artist": "Pat Benatar"
+ },
+ {
+   "Song": "Invisible Sun",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Invisible Touch",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Iron Man",
+   "Artist": "Black Sabbath"
+ },
+ {
+   "Song": "Is She Really Going Out With Him?",
+   "Artist": "Joe Jackson"
+ },
+ {
+   "Song": "Is This Love",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Island Girl",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Isn't It Time",
+   "Artist": "Babys"
+ },
+ {
+   "Song": "It Can Happen",
+   "Artist": "Yes"
+ },
+ {
+   "Song": "It Don't Come Easy",
+   "Artist": "Ringo Starr"
+ },
+ {
+   "Song": "It Don't Matter To Me",
+   "Artist": "Phil Collins"
+ },
+ {
+   "Song": "It Keeps You Running",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "It's A Long Way To The Top",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "It's All I Can Do",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "It's All Over Now",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "It's In The Way That You Use It",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "It's Late",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "It's Money That Matters",
+   "Artist": "Randy Newman"
+ },
+ {
+   "Song": "It's Not Unusual",
+   "Artist": "Tom Jones"
+ },
+ {
+   "Song": "It's Only Love",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "It's Only Rock 'N' Roll",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "It's Raining Again",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "It's Still Rock And Roll To Me",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "It's The End Of The World As We Know It",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "It's Too Late",
+   "Artist": "Carole King"
+ },
+ {
+   "Song": "I've Been Everywhere",
+   "Artist": "Johnny Cash"
+ },
+ {
+   "Song": "I've Got A Feeling",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I've Got A Rock 'N' Roll Heart",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "I've Just Seen A Face",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "I've Seen All Good People",
+   "Artist": "Yes"
+ },
+ {
+   "Song": "Jack & Diane",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Jackie Blue",
+   "Artist": "Ozark Mountain Daredevils"
+ },
+ {
+   "Song": "Jackie Brown",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Jackson",
+   "Artist": "Johnny Cash & June Carter Cash"
+ },
+ {
+   "Song": "Jailbreak",
+   "Artist": "Thin Lizzy"
+ },
+ {
+   "Song": "James Dean",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Jamie's Cryin'",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Jammin'",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Jammin' Me",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Janie's Got A Gun",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Jazzman",
+   "Artist": "Carole King"
+ },
+ {
+   "Song": "Jealous Again",
+   "Artist": "Black Crowes"
+ },
+ {
+   "Song": "Jean Genie",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Jeepster",
+   "Artist": "T Rex"
+ },
+ {
+   "Song": "Jeopardy",
+   "Artist": "Greg Kihn"
+ },
+ {
+   "Song": "Jeremy",
+   "Artist": "Pearl Jam"
+ },
+ {
+   "Song": "Jessica",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "Jessie's Girl",
+   "Artist": "Rick Springfield"
+ },
+ {
+   "Song": "Jesus Is Just Alright",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Jet",
+   "Artist": "Paul Mccartney & Wings"
+ },
+ {
+   "Song": "Jet Airliner",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Jim Dandy",
+   "Artist": "Black Oak Arkansas"
+ },
+ {
+   "Song": "Johnny B Goode",
+   "Artist": "Chuck Berry"
+ },
+ {
+   "Song": "Join Together",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Joker, The",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Josie",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Joy To The World",
+   "Artist": "Three Dog Night"
+ },
+ {
+   "Song": "Juke Box Hero",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Julia",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Jump",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Jump Into The Fire",
+   "Artist": "Nilsson"
+ },
+ {
+   "Song": "Jump Jive And Wail",
+   "Artist": "Brian Setzer Orchestra"
+ },
+ {
+   "Song": "Jumpin' Jack Flash",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Jungle Love",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Jungleland",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Junior's Farm",
+   "Artist": "Paul Mccartney & Wings"
+ },
+ {
+   "Song": "Just A Gigolo / I Ain't Got Nobody",
+   "Artist": "David Lee Roth"
+ },
+ {
+   "Song": "Just A Job To Do",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Just A Song Before I Go",
+   "Artist": "Crosby Stills & Nash"
+ },
+ {
+   "Song": "Just Like Paradise",
+   "Artist": "David Lee Roth"
+ },
+ {
+   "Song": "Just My Imagination",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Just The Same Way",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Just What I Needed",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Just You 'N' Me",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Karma Police",
+   "Artist": "Radiohead"
+ },
+ {
+   "Song": "Karn Evil # 9",
+   "Artist": "Emerson Lake & Palmer"
+ },
+ {
+   "Song": "Kashmir",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Katmandu (Live)",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Keep On Loving You",
+   "Artist": "Reo Speedwagon"
+ },
+ {
+   "Song": "Keep On Smiling",
+   "Artist": "Wet Willie"
+ },
+ {
+   "Song": "Kick It Out",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "Kid Charlemagne",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Killer Queen",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "King Of Hollywood",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "King Of Pain",
+   "Artist": "Police"
+ },
+ {
+   "Song": "King Tut",
+   "Artist": "Steve Martin"
+ },
+ {
+   "Song": "Kiss",
+   "Artist": "Prince"
+ },
+ {
+   "Song": "Knockin' On Heaven's Door",
+   "Artist": "Bob Dylan"
+ },
+ {
+   "Song": "Kodachrome",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "Kryptonite",
+   "Artist": "3 Doors Down"
+ },
+ {
+   "Song": "L.A. Woman",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "La Bamba",
+   "Artist": "Los Lobos"
+ },
+ {
+   "Song": "La Grange",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Lady",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Lady Madonna",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Lady Writer",
+   "Artist": "Dire Straits"
+ },
+ {
+   "Song": "Lamb Lies Down On Broadway",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Land Of 1000 Dances",
+   "Artist": "Wilson Pickett"
+ },
+ {
+   "Song": "Land Of Confusion",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Landslide",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Last Child",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Last Dj, The",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Last Goodbye",
+   "Artist": "Jeff Buckley"
+ },
+ {
+   "Song": "Last Kiss",
+   "Artist": "Pearl Jam"
+ },
+ {
+   "Song": "Last Night",
+   "Artist": "Traveling Wilburys"
+ },
+ {
+   "Song": "Last Resort, The",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Last Time, The",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Last Train To Clarksville",
+   "Artist": "Monkees"
+ },
+ {
+   "Song": "Late In The Evening",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "Lawyers Guns And Money",
+   "Artist": "Warren Zevon"
+ },
+ {
+   "Song": "Lawyers In Love",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "Lay Down Sally",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Lay It On The Line",
+   "Artist": "Triumph"
+ },
+ {
+   "Song": "Lay Lady Lay",
+   "Artist": "Bob Dylan"
+ },
+ {
+   "Song": "Layla",
+   "Artist": "Derek & The Dominos"
+ },
+ {
+   "Song": "Lean On Me",
+   "Artist": "Bill Withers"
+ },
+ {
+   "Song": "Learn To Fly",
+   "Artist": "Foo Fighters"
+ },
+ {
+   "Song": "Learning To Fly",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Learning To Fly",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Leather & Lace",
+   "Artist": "Stevie Nicks & Don Henley"
+ },
+ {
+   "Song": "Leave It",
+   "Artist": "Yes"
+ },
+ {
+   "Song": "Legs",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Lemon Song, The",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Let 'Em In",
+   "Artist": "Paul Mccartney & Wings"
+ },
+ {
+   "Song": "Let It Be",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Let It Bleed",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Let It Grow",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Let It Rain",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Let It Ride",
+   "Artist": "B.T.O."
+ },
+ {
+   "Song": "Let Me Take You Home Tonight",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Let My Love Open The Door",
+   "Artist": "Pete Townshend"
+ },
+ {
+   "Song": "Let The Day Begin",
+   "Artist": "The Call"
+ },
+ {
+   "Song": "Let There Be Rock",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Let's Dance",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Let's Go",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Let's Spend The Night Together",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Letter, The",
+   "Artist": "Box Tops"
+ },
+ {
+   "Song": "Levon",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Liar",
+   "Artist": "Three Dog Night"
+ },
+ {
+   "Song": "Life During Wartime",
+   "Artist": "Talking Heads"
+ },
+ {
+   "Song": "Life In The Fast Lane",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Life Is A Rock (But The Radio Rolled Me)",
+   "Artist": "Reunion"
+ },
+ {
+   "Song": "Life Of Illusion, A",
+   "Artist": "Joe Walsh"
+ },
+ {
+   "Song": "Life On Mars",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Life's Been Good",
+   "Artist": "Joe Walsh"
+ },
+ {
+   "Song": "Light My Fire",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Lights",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Lights Out",
+   "Artist": "Ufo"
+ },
+ {
+   "Song": "Lights Out",
+   "Artist": "Peter Wolf"
+ },
+ {
+   "Song": "Like A Hurricane",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Like A Rock",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Like A Rolling Stone",
+   "Artist": "Bob Dylan"
+ },
+ {
+   "Song": "Limelight",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Listen Like Thieves",
+   "Artist": "Inxs"
+ },
+ {
+   "Song": "Listen To Her Heart",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Listen To The Music",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Listen To What The Man Said",
+   "Artist": "Paul Mccartney & Wings"
+ },
+ {
+   "Song": "Little By Little",
+   "Artist": "Robert Plant"
+ },
+ {
+   "Song": "Little Deuce Coupe",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Little Lies",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Little Old Lady (From Pasadena)",
+   "Artist": "Jan & Dean"
+ },
+ {
+   "Song": "Little Wing",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Live And Let Die",
+   "Artist": "Paul Mccartney & Wings"
+ },
+ {
+   "Song": "Lively Up Yourself",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Livin' On A Prayer",
+   "Artist": "Bon Jovi"
+ },
+ {
+   "Song": "Livin' On The Edge",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Livin' Thing",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Living After Midnight",
+   "Artist": "Judas Priest"
+ },
+ {
+   "Song": "Living For The City",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "Living In The Past",
+   "Artist": "Jethro Tull"
+ },
+ {
+   "Song": "Living In The Usa",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Loadout/Stay",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "Locomotion, The",
+   "Artist": "Grand Funk"
+ },
+ {
+   "Song": "Locomotive Breath",
+   "Artist": "Jethro Tull"
+ },
+ {
+   "Song": "Lodi",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Logical Song, The",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "Lola",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "London Calling",
+   "Artist": "Clash"
+ },
+ {
+   "Song": "Lonely Is The Night",
+   "Artist": "Billy Squier"
+ },
+ {
+   "Song": "Lonely 'Ol Night",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Long And Winding Road, The",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Long Cool Woman",
+   "Artist": "Hollies"
+ },
+ {
+   "Song": "Long Distance Runaround",
+   "Artist": "Yes"
+ },
+ {
+   "Song": "Long Live Rock",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Long Long Way From Home",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Long Run, The",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Long Time Gone",
+   "Artist": "Crosby Stills & Nash"
+ },
+ {
+   "Song": "Long Train Runnin'",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Look At Little Sister",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "Look Sharp",
+   "Artist": "Joe Jackson"
+ },
+ {
+   "Song": "Lookin' Out My Back Door",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Lorelei",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Losing My Religion",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "Lost In The Supermarket",
+   "Artist": "Clash"
+ },
+ {
+   "Song": "Louie Louie",
+   "Artist": "Kingsmen"
+ },
+ {
+   "Song": "Love Bites",
+   "Artist": "Def Leppard"
+ },
+ {
+   "Song": "Love Her Madly",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Love Hurts",
+   "Artist": "Nazareth"
+ },
+ {
+   "Song": "Love In An Elevator",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Love Is A Battlefield",
+   "Artist": "Pat Benatar"
+ },
+ {
+   "Song": "Love Is A Long Road",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Love Is Alive",
+   "Artist": "Gary Wright"
+ },
+ {
+   "Song": "Love Is Like Oxygen",
+   "Artist": "Sweet"
+ },
+ {
+   "Song": "Love Is The Drug",
+   "Artist": "Roxy Music"
+ },
+ {
+   "Song": "Love Me Do",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Love Me Two Times",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Love Plus One",
+   "Artist": "Haircut One Hundred"
+ },
+ {
+   "Song": "Love Reign O'er Me",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Love Removal Machine",
+   "Artist": "Cult"
+ },
+ {
+   "Song": "Love Stinks",
+   "Artist": "J. Geils Band"
+ },
+ {
+   "Song": "Love Street",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Love Struck Baby",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "Love The One You're With",
+   "Artist": "Stephen Stills"
+ },
+ {
+   "Song": "Lovely Day",
+   "Artist": "Bill Withers"
+ },
+ {
+   "Song": "Lovely Rita",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Loves Me Like A Rock",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "Lovin' Touchin' Squeezin",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Low Rider",
+   "Artist": "War"
+ },
+ {
+   "Song": "Low Spark Of High-Heeled Boys, The",
+   "Artist": "Traffic"
+ },
+ {
+   "Song": "Lucky Man",
+   "Artist": "Emerson Lake & Palmer"
+ },
+ {
+   "Song": "Lucy In The Sky With Diamonds",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Lumberjack Song",
+   "Artist": "Monty Python"
+ },
+ {
+   "Song": "Lunatic Fringe",
+   "Artist": "Red Rider"
+ },
+ {
+   "Song": "Lust For Life",
+   "Artist": "Iggy Pop"
+ },
+ {
+   "Song": "Lyin' Eyes",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Maggie May",
+   "Artist": "Rod Stewart"
+ },
+ {
+   "Song": "Magic",
+   "Artist": "Pilot"
+ },
+ {
+   "Song": "Magic",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Magic Bus",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Magic Carpet Ride",
+   "Artist": "Steppenwolf"
+ },
+ {
+   "Song": "Magic Man",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "Magic Power",
+   "Artist": "Triumph"
+ },
+ {
+   "Song": "Magical Mystery Tour",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Magnet & Steel",
+   "Artist": "Walter Egan"
+ },
+ {
+   "Song": "Mainline Florida",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Mainstreet",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Major Tom (Coming Home)",
+   "Artist": "Peter Schilling"
+ },
+ {
+   "Song": "Make Me Smile",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Mama",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Mama Can't Buy You Love",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Mama I'm Coming Home",
+   "Artist": "Ozzy Osbourne"
+ },
+ {
+   "Song": "Mama Kin",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Mama Told Me (Not To Come)",
+   "Artist": "Three Dog Night"
+ },
+ {
+   "Song": "Man I'll Never Be, A",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Man On The Corner",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Man On The Moon",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "Man Who Sold The World, The",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Mandolin Rain",
+   "Artist": "Bruce Hornsby"
+ },
+ {
+   "Song": "Mannish Boy",
+   "Artist": "Muddy Waters"
+ },
+ {
+   "Song": "Margaritaville",
+   "Artist": "Jimmy Buffett"
+ },
+ {
+   "Song": "Marrakesh Express",
+   "Artist": "Crosby Stills & Nash"
+ },
+ {
+   "Song": "Martha My Dear",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Mary Had A Little Lamb",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "Mary Jane's Last Dance",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Mary Mary",
+   "Artist": "Monkees"
+ },
+ {
+   "Song": "Maxwell's Silver Hammer",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Maybe I'm Amazed (Live)",
+   "Artist": "Paul Mccartney"
+ },
+ {
+   "Song": "Me & Julio Down By The School Yard",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "Me & You And A Dog Named Boo",
+   "Artist": "Lobo"
+ },
+ {
+   "Song": "Me And Bobby Mcgee",
+   "Artist": "Janis Joplin"
+ },
+ {
+   "Song": "Mean Mr. Mustard",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Melissa",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "Mellow Yellow",
+   "Artist": "Donovan"
+ },
+ {
+   "Song": "Mercedes Benz",
+   "Artist": "Janis Joplin"
+ },
+ {
+   "Song": "Mercy Mercy Me",
+   "Artist": "Marvin Gaye"
+ },
+ {
+   "Song": "Message In A Bottle",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Message Of Love",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Mexican Radio",
+   "Artist": "Wall Of Voodoo"
+ },
+ {
+   "Song": "Middle Of The Road",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Midnight Blue",
+   "Artist": "Lou Gramm"
+ },
+ {
+   "Song": "Midnight Cruiser",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Midnight Rambler",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Midnight Rider",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "Midnight Special",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Mind Games",
+   "Artist": "John Lennon"
+ },
+ {
+   "Song": "Minute By Minute",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Miss You",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Mississippi Queen",
+   "Artist": "Mountain"
+ },
+ {
+   "Song": "Misty Mountain Hop",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Misunderstanding",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Moby Dick",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Modern Love",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Mona Lisas & Mad Hatters",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Monday Morning",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Money",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Money For Nothing",
+   "Artist": "Dire Straits"
+ },
+ {
+   "Song": "Money Talks",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Monkey Man",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Monster Mash",
+   "Artist": "Bobby \"Boris\" Pickett"
+ },
+ {
+   "Song": "Montana",
+   "Artist": "Frank Zappa"
+ },
+ {
+   "Song": "Montego Bay",
+   "Artist": "Bobby Bloom"
+ },
+ {
+   "Song": "Mony Mony",
+   "Artist": "Billy Idol"
+ },
+ {
+   "Song": "Moondance",
+   "Artist": "Van Morrison"
+ },
+ {
+   "Song": "Moonlight Drive",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Moonshadow",
+   "Artist": "Cat Stevens"
+ },
+ {
+   "Song": "More Than A Feeling",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "More Than This",
+   "Artist": "Roxy Music"
+ },
+ {
+   "Song": "Mother",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Mother And Child Reunion",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "Motherless Children",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Move It On Over",
+   "Artist": "George Thorogood"
+ },
+ {
+   "Song": "Move Over",
+   "Artist": "Janis Joplin"
+ },
+ {
+   "Song": "Movin' On",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Movin' Out (Anthony's Song)",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "Moving In Stereo",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Mr. Blue Sky",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Mr. Roboto (Live)",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Mr. Skin",
+   "Artist": "Spirit"
+ },
+ {
+   "Song": "Mr. Soul",
+   "Artist": "Buffalo Springfield"
+ },
+ {
+   "Song": "Mr. Tambourine Man",
+   "Artist": "Byrds"
+ },
+ {
+   "Song": "Mrs. Robinson",
+   "Artist": "Simon & Garfunkel"
+ },
+ {
+   "Song": "Murder By Numbers",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Must Of Got Lost",
+   "Artist": "The J. Geils Band"
+ },
+ {
+   "Song": "Mustang Sally",
+   "Artist": "Wilson Pickett"
+ },
+ {
+   "Song": "My Baby",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "My Best Friend's Girl",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "My City Was Gone",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "My Ding-A-Ling",
+   "Artist": "Chuck Berry"
+ },
+ {
+   "Song": "My Generation",
+   "Artist": "Who"
+ },
+ {
+   "Song": "My Hometown",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "My Kinda Lover",
+   "Artist": "Billy Squier"
+ },
+ {
+   "Song": "My Life",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "My Little Red Book",
+   "Artist": "Love"
+ },
+ {
+   "Song": "My Little Town",
+   "Artist": "Simon & Garfunkel"
+ },
+ {
+   "Song": "My Love",
+   "Artist": "Paul Mccartney & Wings"
+ },
+ {
+   "Song": "My My Hey Hey",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "My Old School",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "My Sharona",
+   "Artist": "Knack"
+ },
+ {
+   "Song": "My Sweet Lord",
+   "Artist": "George Harrison"
+ },
+ {
+   "Song": "Mysterious Ways",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Mystery Achievement",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Nature's Way",
+   "Artist": "Spirit"
+ },
+ {
+   "Song": "Need You Tonight",
+   "Artist": "Inxs"
+ },
+ {
+   "Song": "Needle And The Damage Done, The",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Needles & Pins (Live)",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Never",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "Never Been Any Reason",
+   "Artist": "Head East"
+ },
+ {
+   "Song": "Never Ending Song Of Love",
+   "Artist": "Delaney & Bonnie"
+ },
+ {
+   "Song": "Never Going Back Again",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "New Kid In Town",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "New Sensation",
+   "Artist": "Inxs"
+ },
+ {
+   "Song": "New World Man",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "New Year's Day",
+   "Artist": "U2"
+ },
+ {
+   "Song": "New York State Of Mind",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "Next To You",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Night Flight",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Night Moves",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Night They Drove Ol' Dixie Down, The",
+   "Artist": "Band"
+ },
+ {
+   "Song": "Nights In White Satin",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "Nineteen",
+   "Artist": "Paul Hardcastle"
+ },
+ {
+   "Song": "Nineteen Eighty Five",
+   "Artist": "Paul Mccartney & Wings"
+ },
+ {
+   "Song": "Nineteen Ninety Nine",
+   "Artist": "Prince"
+ },
+ {
+   "Song": "Nineteenth Nervous Breakdown",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Ninety Six Tears",
+   "Artist": "? & The Mysterians"
+ },
+ {
+   "Song": "No More Mr. Nice Guy",
+   "Artist": "Alice Cooper"
+ },
+ {
+   "Song": "No No Song",
+   "Artist": "Ringo Starr"
+ },
+ {
+   "Song": "No One Like You",
+   "Artist": "Scorpions"
+ },
+ {
+   "Song": "No One To Depend On",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "No Reply At All",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "No Son Of Mine",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "No Sugar Tonight/New Mother Nature",
+   "Artist": "Guess Who"
+ },
+ {
+   "Song": "No Time",
+   "Artist": "Guess Who"
+ },
+ {
+   "Song": "No Time To Lose",
+   "Artist": "Tarney Spencer Band"
+ },
+ {
+   "Song": "No Woman No Cry",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Nobody Told Me",
+   "Artist": "John Lennon"
+ },
+ {
+   "Song": "Norwegian Wood (This Bird Has Flown)",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Not Fade Away",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Nothin' But A Good Time",
+   "Artist": "Poison"
+ },
+ {
+   "Song": "Nothing's Gonna Stop Us Now",
+   "Artist": "Starship"
+ },
+ {
+   "Song": "November Rain",
+   "Artist": "Guns N' Roses"
+ },
+ {
+   "Song": "Nowhere Man",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Number Nine Dream",
+   "Artist": "John Lennon"
+ },
+ {
+   "Song": "Ob-La-Di, Ob-La-Da",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Ocean, The",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Octopus's Garden",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Oh Darling",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Oh Sherrie",
+   "Artist": "Steve Perry"
+ },
+ {
+   "Song": "Oh, Pretty Woman",
+   "Artist": "Roy Orbison"
+ },
+ {
+   "Song": "Ohio",
+   "Artist": "Crosby Stills Nash & Young"
+ },
+ {
+   "Song": "Old Days",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Old Fashioned Love Song, An",
+   "Artist": "Three Dog Night"
+ },
+ {
+   "Song": "Old Man",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Old Man Down The Road",
+   "Artist": "John Fogerty"
+ },
+ {
+   "Song": "Old Time Rock & Roll",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "On The Border",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "On The Dark Side",
+   "Artist": "John Cafferty & The Beaver Brown Band"
+ },
+ {
+   "Song": "On The Road Again",
+   "Artist": "Canned Heat"
+ },
+ {
+   "Song": "On The Turning Away",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Once Bitten,Twice Shy",
+   "Artist": "Great White"
+ },
+ {
+   "Song": "Once In A Lifetime",
+   "Artist": "Talking Heads"
+ },
+ {
+   "Song": "One",
+   "Artist": "U2"
+ },
+ {
+   "Song": "One Bourbon/Scotch/Beer",
+   "Artist": "George Thorogood"
+ },
+ {
+   "Song": "One I Love, The",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "One Love",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "One Of These Days",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "One Of These Nights",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "One Piece At A Time",
+   "Artist": "Johnny Cash"
+ },
+ {
+   "Song": "One Slip",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "One Step Beyond",
+   "Artist": "Madness"
+ },
+ {
+   "Song": "One Thing Leads To Another",
+   "Artist": "Fixx"
+ },
+ {
+   "Song": "One Toke Over The Line",
+   "Artist": "Brewer & Shipley"
+ },
+ {
+   "Song": "One Tree Hill",
+   "Artist": "U2"
+ },
+ {
+   "Song": "One Way Or Another",
+   "Artist": "Blondie"
+ },
+ {
+   "Song": "One Way Out",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "One World (Not Three)",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Only The Good Die Young",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "Only The Lonely",
+   "Artist": "Roy Orbison"
+ },
+ {
+   "Song": "Only Women Bleed",
+   "Artist": "Alice Cooper"
+ },
+ {
+   "Song": "Only You Know & I Know",
+   "Artist": "Dave Mason"
+ },
+ {
+   "Song": "Open Arms",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Orange Blossom Special",
+   "Artist": "Johnny Cash"
+ },
+ {
+   "Song": "Orange Crush",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "Other Side, The",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Our House",
+   "Artist": "Crosby Stills Nash & Young"
+ },
+ {
+   "Song": "Out In The Cold",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Out In The Street",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Over My Head",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Over The Hills & Far Away",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Overkill",
+   "Artist": "Men At Work"
+ },
+ {
+   "Song": "Owner Of A Lonely Heart",
+   "Artist": "Yes"
+ },
+ {
+   "Song": "Oye Como Va",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "P.S. I Love You",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Paint It Black",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Panama",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Panic In Detroit",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Papa Was A Rollin' Stone",
+   "Artist": "Temptations"
+ },
+ {
+   "Song": "Paper In Fire",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Paperback Writer",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Paradise By The Dashboard Light",
+   "Artist": "Meatloaf"
+ },
+ {
+   "Song": "Paradise City",
+   "Artist": "Guns N' Roses"
+ },
+ {
+   "Song": "Paranoid",
+   "Artist": "Black Sabbath"
+ },
+ {
+   "Song": "Patience",
+   "Artist": "Guns N' Roses"
+ },
+ {
+   "Song": "Peace Frog/Blue Sunday",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Peace Of Mind",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Peaceful Easy Feeling",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Pearl Necklace",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Peg",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Penny Lane",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "People Are Strange",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "People Got To Be Free",
+   "Artist": "The Rascals"
+ },
+ {
+   "Song": "People Who Died, The",
+   "Artist": "Jim Carroll"
+ },
+ {
+   "Song": "Philadelphia Freedom",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Photograph",
+   "Artist": "Def Leppard"
+ },
+ {
+   "Song": "Photograph",
+   "Artist": "Ringo Starr"
+ },
+ {
+   "Song": "Piano Man",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "Pick Up The Pieces",
+   "Artist": "Average White Band"
+ },
+ {
+   "Song": "Pico & Sepulveda",
+   "Artist": "Felix Figueroa"
+ },
+ {
+   "Song": "Piece Of My Heart",
+   "Artist": "Janis Joplin And Big Brother & The Holding Company"
+ },
+ {
+   "Song": "Piggies",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Pinball Wizard",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Pink Cadillac",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Pink Houses",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Pipeline",
+   "Artist": "The Chantays"
+ },
+ {
+   "Song": "Play Guitar",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Playing In The Band",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Please Please Me",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Plush",
+   "Artist": "Stone Temple Pilots"
+ },
+ {
+   "Song": "Point Of Know Return",
+   "Artist": "Kansas"
+ },
+ {
+   "Song": "Poor Poor Pitiful Me",
+   "Artist": "Linda Ronstadt"
+ },
+ {
+   "Song": "Pop Song 89",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "Pour Some Sugar On Me",
+   "Artist": "Def Leppard"
+ },
+ {
+   "Song": "Power Of Love",
+   "Artist": "Huey Lewis And The News"
+ },
+ {
+   "Song": "Precious",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Pressure",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "Pretender, The",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "Pretending",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Pretty Ballerina",
+   "Artist": "Left Banke"
+ },
+ {
+   "Song": "Pride & Joy",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "Pride (In The Name Of Love)",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Promises",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Promises In The Dark",
+   "Artist": "Pat Benatar"
+ },
+ {
+   "Song": "Proud Mary",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Prove It All Night",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Psycho Killer",
+   "Artist": "Talking Heads"
+ },
+ {
+   "Song": "Pump It Up",
+   "Artist": "Elvis Costello"
+ },
+ {
+   "Song": "Purple Haze",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Purple Rain",
+   "Artist": "Prince"
+ },
+ {
+   "Song": "Put Your Lights On",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "Quadrophenia",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Question",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "Questions 67 And 68",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "R.O.C.K. In The U.S.A.",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Radar Love",
+   "Artist": "Golden Earring"
+ },
+ {
+   "Song": "Radio Free Europe",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "Radio Ga Ga",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Radio Radio",
+   "Artist": "Elvis Costello"
+ },
+ {
+   "Song": "Radioactive",
+   "Artist": "Firm"
+ },
+ {
+   "Song": "Rag Doll",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Rain",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Rain Dance",
+   "Artist": "Guess Who"
+ },
+ {
+   "Song": "Rain On The Scarecrow",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Rain Song, The",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Rainbow In The Dark",
+   "Artist": "Dio"
+ },
+ {
+   "Song": "Rainy Day Women 12 & 35",
+   "Artist": "Bob Dylan"
+ },
+ {
+   "Song": "Ramble On",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Ramble Tamble",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Ramblin' Gamblin' Man",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Ramblin' Man",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "Rapture",
+   "Artist": "Blondie"
+ },
+ {
+   "Song": "Ready For Love",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Real Me, The",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Rebel Rebel",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Rebel Yell",
+   "Artist": "Billy Idol"
+ },
+ {
+   "Song": "Red Barchetta",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Red Rain",
+   "Artist": "Peter Gabriel"
+ },
+ {
+   "Song": "Red Skies",
+   "Artist": "Fixx"
+ },
+ {
+   "Song": "Redemption Song",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Reeling In The Years",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Refugee",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Remedy",
+   "Artist": "Black Crowes"
+ },
+ {
+   "Song": "Renegade",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Respect",
+   "Artist": "Aretha Franklin"
+ },
+ {
+   "Song": "Respectable",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Revival",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "Revolution",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Rhiannon",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Rich Girl",
+   "Artist": "Hall & Oates"
+ },
+ {
+   "Song": "Ride Captain Ride",
+   "Artist": "Blues Image"
+ },
+ {
+   "Song": "Ride Like The Wind",
+   "Artist": "Christopher Cross"
+ },
+ {
+   "Song": "Ride The Tiger",
+   "Artist": "Jefferson Starship"
+ },
+ {
+   "Song": "Riders On The Storm",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Ridin' The Storm Out",
+   "Artist": "Reo Speedwagon"
+ },
+ {
+   "Song": "Right Down The Line",
+   "Artist": "Gerry Rafferty"
+ },
+ {
+   "Song": "Right Here Right Now",
+   "Artist": "Jesus Jones"
+ },
+ {
+   "Song": "Right Place, Wrong Time",
+   "Artist": "Dr. John"
+ },
+ {
+   "Song": "Rikki Don't Lose That Number",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Ring Of Fire",
+   "Artist": "Johnny Cash"
+ },
+ {
+   "Song": "Rip This Joint",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Rising, The",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "River, The",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Road To Nowhere",
+   "Artist": "Talking Heads"
+ },
+ {
+   "Song": "Roadhouse Blues",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Rock & Roll",
+   "Artist": "Velvet Underground"
+ },
+ {
+   "Song": "Rock & Roll Band",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Rock And Roll",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Rock And Roll Ain't Noise Pollution",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Rock And Roll All Nite(Live)",
+   "Artist": "Kiss"
+ },
+ {
+   "Song": "Rock And Roll Girls",
+   "Artist": "John Fogerty"
+ },
+ {
+   "Song": "Rock And Roll Hoochie Koo",
+   "Artist": "Rick Derringer"
+ },
+ {
+   "Song": "Rock And Roll Music",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Rock And Roll Never Forgets",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Rock And Roll Woman",
+   "Artist": "Buffalo Springfield"
+ },
+ {
+   "Song": "Rock Candy",
+   "Artist": "Montrose"
+ },
+ {
+   "Song": "Rock Lobster",
+   "Artist": "B-52'S"
+ },
+ {
+   "Song": "Rock Me Gently",
+   "Artist": "Andy Kim"
+ },
+ {
+   "Song": "Rock 'N Me",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Rock 'N' Roll Fantasy",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Rock 'N Roll High School",
+   "Artist": "Ramones"
+ },
+ {
+   "Song": "Rock 'N Roll Part 2",
+   "Artist": "Gary Glitter"
+ },
+ {
+   "Song": "Rock Of Ages",
+   "Artist": "Def Leppard"
+ },
+ {
+   "Song": "Rock On",
+   "Artist": "David Essex"
+ },
+ {
+   "Song": "Rock Steady",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Rock The Casbah",
+   "Artist": "Clash"
+ },
+ {
+   "Song": "Rock This Town",
+   "Artist": "Stray Cats"
+ },
+ {
+   "Song": "Rock You Like A Hurricane",
+   "Artist": "Scorpions"
+ },
+ {
+   "Song": "Rocket",
+   "Artist": "Def Leppard"
+ },
+ {
+   "Song": "Rocket Man",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Rockin' At Midnight",
+   "Artist": "Honeydrippers"
+ },
+ {
+   "Song": "Rockin' Down The Highway",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Rockin In The Free World",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Rocks Off",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Rocky Mountain Way",
+   "Artist": "Joe Walsh"
+ },
+ {
+   "Song": "Rocky Raccoon",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Roll Me Away",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Roll On Down The Highway",
+   "Artist": "B.T.O."
+ },
+ {
+   "Song": "Roll Over Beethoven",
+   "Artist": "Chuck Berry"
+ },
+ {
+   "Song": "Roll With It",
+   "Artist": "Steve Winwood"
+ },
+ {
+   "Song": "Roll With The Changes",
+   "Artist": "Reo Speedwagon"
+ },
+ {
+   "Song": "Romeo And Juliet",
+   "Artist": "Dire Straits"
+ },
+ {
+   "Song": "Rosalita",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Rough Boys",
+   "Artist": "Pete Townshend"
+ },
+ {
+   "Song": "Round & Round",
+   "Artist": "Ratt"
+ },
+ {
+   "Song": "Roundabout",
+   "Artist": "Yes"
+ },
+ {
+   "Song": "Route 66",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Roxanne",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Royal Scam, The",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Ruby Tuesday",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Rudy",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "Run Like Hell",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Run Run Run",
+   "Artist": "Jo Jo Gunne"
+ },
+ {
+   "Song": "Run Through The Jungle",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Run To You",
+   "Artist": "Bryan Adams"
+ },
+ {
+   "Song": "Run With The Pack",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Runaway",
+   "Artist": "Bon Jovi"
+ },
+ {
+   "Song": "Runnin' Down A Dream",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Runnin' With The Devil",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Running On Empty",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "Sailin/Julia/Sneakin' Sally Thru The Alley",
+   "Artist": "Robert Palmer"
+ },
+ {
+   "Song": "Same Old Song And Dance",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Sara",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Sara",
+   "Artist": "Starship"
+ },
+ {
+   "Song": "Saturday In The Park",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Saturday Night",
+   "Artist": "Bay City Rollers"
+ },
+ {
+   "Song": "Saturday Night Special",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Saturday Night's Alright",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Saved By Zero",
+   "Artist": "Fixx"
+ },
+ {
+   "Song": "Savoy Truffle",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Say You Love Me",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Scenes From An Italian Restaurant",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "School",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "School's Out",
+   "Artist": "Alice Cooper"
+ },
+ {
+   "Song": "Sea Of Love",
+   "Artist": "Honeydrippers"
+ },
+ {
+   "Song": "Seagull",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Second Hand Love",
+   "Artist": "Pete Townshend"
+ },
+ {
+   "Song": "Second Hand News",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "See Me, Feel Me",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Seeker, The",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Send Her My Love",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Separate Ways",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Set Me Free",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "Seven Nation Army",
+   "Artist": "White Stripes"
+ },
+ {
+   "Song": "Sex & Drugs & Rock & Roll",
+   "Artist": "Ian Dury"
+ },
+ {
+   "Song": "Sgt Pepper/With A Little Help From My Friends",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Shadow Of A Doubt (A Complex Kid)",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Shadows Of The Night",
+   "Artist": "Pat Benatar"
+ },
+ {
+   "Song": "Shake It Up",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Shakedown Street",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Shakin'",
+   "Artist": "Eddie Money"
+ },
+ {
+   "Song": "Shaking The Tree (Live)",
+   "Artist": "Peter Gabriel"
+ },
+ {
+   "Song": "Shame On The Moon",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Shanty",
+   "Artist": "Jonathon Edwards"
+ },
+ {
+   "Song": "Sharp Dressed Man",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Shattered",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "She Blinded Me With Science",
+   "Artist": "Thomas Dolby"
+ },
+ {
+   "Song": "She Loves You",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "She Said She Said",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "She Sells Sanctuary",
+   "Artist": "Cult"
+ },
+ {
+   "Song": "She Talks To Angels",
+   "Artist": "Black Crowes"
+ },
+ {
+   "Song": "Sheena Is A Punkrocker",
+   "Artist": "Ramones"
+ },
+ {
+   "Song": "Sheep",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "She's A Beauty",
+   "Artist": "Tubes"
+ },
+ {
+   "Song": "She's A Lady",
+   "Artist": "Tom Jones"
+ },
+ {
+   "Song": "She's A Rainbow",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "She's Not There",
+   "Artist": "Zombies"
+ },
+ {
+   "Song": "She's So Cold",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "She's The One",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "She's Waiting",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Shock The Monkey",
+   "Artist": "Peter Gabriel"
+ },
+ {
+   "Song": "Shoo Be Do/Candy-O",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Shoot To Thrill",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Shooting Star",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Short People",
+   "Artist": "Randy Newman"
+ },
+ {
+   "Song": "Should I Stay Or Should I Go",
+   "Artist": "Clash"
+ },
+ {
+   "Song": "Shout",
+   "Artist": "Otis Day & The Knights"
+ },
+ {
+   "Song": "Shout",
+   "Artist": "Tears For Fears"
+ },
+ {
+   "Song": "Shout It Out Loud",
+   "Artist": "Kiss"
+ },
+ {
+   "Song": "Show Biz Kids",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Show Me",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Show Me The Way (Live)",
+   "Artist": "Peter Frampton"
+ },
+ {
+   "Song": "Showdown",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Signs",
+   "Artist": "5 Man Electrical Band"
+ },
+ {
+   "Song": "Silent Running",
+   "Artist": "Mike & The Mechanics"
+ },
+ {
+   "Song": "Silly Love Songs",
+   "Artist": "Paul Mccartney & Wings [+] Paul Mccartney"
+ },
+ {
+   "Song": "Silver Blue And Gold",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Simple Man",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Simply Irresistible",
+   "Artist": "Robert Palmer"
+ },
+ {
+   "Song": "Since You're Gone",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Since You've Been Gone",
+   "Artist": "Rainbow"
+ },
+ {
+   "Song": "Sirius/Eye In The Sky",
+   "Artist": "Alan Parsons Project"
+ },
+ {
+   "Song": "Sister Christian",
+   "Artist": "Night Ranger"
+ },
+ {
+   "Song": "Sister Golden Hair",
+   "Artist": "America"
+ },
+ {
+   "Song": "Sittin' On The Dock Of The Bay",
+   "Artist": "Otis Redding"
+ },
+ {
+   "Song": "Sixth Avenue Heartache",
+   "Artist": "Wallflowers"
+ },
+ {
+   "Song": "Skating Away",
+   "Artist": "Jethro Tull"
+ },
+ {
+   "Song": "Sky Is Crying, The",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "Slave",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Sledgehammer",
+   "Artist": "Peter Gabriel"
+ },
+ {
+   "Song": "Slip Kid",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Slipping Away",
+   "Artist": "Dave Edmunds"
+ },
+ {
+   "Song": "Slit Skirts",
+   "Artist": "Pete Townshend"
+ },
+ {
+   "Song": "Sloop John B.",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Slow Ride",
+   "Artist": "Foghat"
+ },
+ {
+   "Song": "Smackwater Jack",
+   "Artist": "Carole King"
+ },
+ {
+   "Song": "Small Town",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Smells Like Teen Spirit",
+   "Artist": "Nirvana"
+ },
+ {
+   "Song": "Smoke From A Distant Fire",
+   "Artist": "The Sanford/Townsend Band"
+ },
+ {
+   "Song": "Smoke On The Water",
+   "Artist": "Deep Purple"
+ },
+ {
+   "Song": "Smokin'",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Smokin' In The Boys Room",
+   "Artist": "Brownsville Station"
+ },
+ {
+   "Song": "Smooth",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "So Fine",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "So Lonely",
+   "Artist": "Police"
+ },
+ {
+   "Song": "So You Want To Be A Rock & Roll Star",
+   "Artist": "Byrds"
+ },
+ {
+   "Song": "So. Central Rain",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "Sold Me Down The River",
+   "Artist": "Alarm"
+ },
+ {
+   "Song": "Solsbury Hill",
+   "Artist": "Peter Gabriel"
+ },
+ {
+   "Song": "Some Kind Of Wonderful",
+   "Artist": "Grand Funk"
+ },
+ {
+   "Song": "Somebody",
+   "Artist": "Bryan Adams"
+ },
+ {
+   "Song": "Somebody To Love",
+   "Artist": "Jefferson Airplane"
+ },
+ {
+   "Song": "Somebody To Love",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Somebody's Baby",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "Someday Never Comes",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Someday Someway",
+   "Artist": "Marshall Crenshaw"
+ },
+ {
+   "Song": "Someone Saved My Life Tonight",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Something",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Something About You",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Something In The Air",
+   "Artist": "Thunderclap Newman"
+ },
+ {
+   "Song": "Sometimes A Fantasy",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "Sometimes You Can't Make It",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Song Is Over, The",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Song Remains The Same, The",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Soul Kitchen",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Soul Man",
+   "Artist": "Blues Brothers"
+ },
+ {
+   "Song": "Soul Sacrifice",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "Sound Of Silence, The",
+   "Artist": "Simon & Garfunkel"
+ },
+ {
+   "Song": "South Bound Saurez",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Southern Cross",
+   "Artist": "Crosby Stills & Nash"
+ },
+ {
+   "Song": "Southern Man",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Space Cowboy",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Space Oddity",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Space Truckin'",
+   "Artist": "Deep Purple"
+ },
+ {
+   "Song": "Spill The Wine",
+   "Artist": "Eric Burdon & War"
+ },
+ {
+   "Song": "Spinning Wheel",
+   "Artist": "Blood Sweat & Tears"
+ },
+ {
+   "Song": "Spirit In The Night",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Spirit In The Sky",
+   "Artist": "Norman Greenbaum"
+ },
+ {
+   "Song": "Spirit Of Radio",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Spirits In The Material World",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Spooky",
+   "Artist": "Atlanta Rhythm Section"
+ },
+ {
+   "Song": "Spread Your Wings",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Squeeze Box",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Stairway To Gilligan's Island",
+   "Artist": "Little Roger & The Goosebumps"
+ },
+ {
+   "Song": "Stairway To Heaven",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Stake, The",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Stand",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "Stand Back",
+   "Artist": "Stevie Nicks"
+ },
+ {
+   "Song": "Stand By Me",
+   "Artist": "John Lennon"
+ },
+ {
+   "Song": "Starman",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Start Me Up",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Statesboro Blues (Live)",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "Stay Up Late",
+   "Artist": "Talking Heads"
+ },
+ {
+   "Song": "Stay With Me",
+   "Artist": "Faces"
+ },
+ {
+   "Song": "Stealin'",
+   "Artist": "Uriah Heep"
+ },
+ {
+   "Song": "Steppin' Out",
+   "Artist": "Joe Jackson"
+ },
+ {
+   "Song": "Still The Same",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Stir It Up",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Stone Free",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Stone In Love",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Stop Dragging My Heart Around",
+   "Artist": "Stevie Nicks & Tom Petty"
+ },
+ {
+   "Song": "Stop Your Sobbing",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Straight On",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "Strange Brew",
+   "Artist": "Cream"
+ },
+ {
+   "Song": "Strange Days",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Strange Magic",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Stranglehold",
+   "Artist": "Ted Nugent"
+ },
+ {
+   "Song": "Strawberry Fields Forever",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Strawberry Letter 23",
+   "Artist": "Brothers Johnson"
+ },
+ {
+   "Song": "Stray Cat Strut",
+   "Artist": "Stray Cats"
+ },
+ {
+   "Song": "Street Fighting Man",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Streets Of Philadelphia",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Stroke, The",
+   "Artist": "Billy Squier"
+ },
+ {
+   "Song": "Stuck In The Middle With You",
+   "Artist": "Stealers Wheel"
+ },
+ {
+   "Song": "Stuck Inside Of Mobile With The Memphis Blues...",
+   "Artist": "Bob Dylan"
+ },
+ {
+   "Song": "Subdivisions",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Substitute",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Subterranean Homesick Blues",
+   "Artist": "Bob Dylan"
+ },
+ {
+   "Song": "Suffragette City",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Sugar Magnolia",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Sugar Mountain",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Suicide Blonde",
+   "Artist": "Inxs"
+ },
+ {
+   "Song": "Suite: Judy Blue Eyes",
+   "Artist": "Crosby Stills & Nash"
+ },
+ {
+   "Song": "Sultans Of Swing",
+   "Artist": "Dire Straits"
+ },
+ {
+   "Song": "Summer",
+   "Artist": "War"
+ },
+ {
+   "Song": "Summer Of 69",
+   "Artist": "Bryan Adams"
+ },
+ {
+   "Song": "Summertime Blues",
+   "Artist": "Eddie Cochran"
+ },
+ {
+   "Song": "Sun King-Bathroom Window (Medley)",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Sunday Bloody Sunday",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Sunday Papers",
+   "Artist": "Joe Jackson"
+ },
+ {
+   "Song": "Sundown",
+   "Artist": "Gordon Lightfoot"
+ },
+ {
+   "Song": "Sunshine",
+   "Artist": "Jonathon Edwards"
+ },
+ {
+   "Song": "Sunshine Of Your Love",
+   "Artist": "Cream"
+ },
+ {
+   "Song": "Superfly",
+   "Artist": "Curtis Mayfield"
+ },
+ {
+   "Song": "Superman",
+   "Artist": "R.E.M."
+ },
+ {
+   "Song": "Superstition",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "Surf City",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Surfer Girl",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Surfin' Bird (Bird Is The Word)",
+   "Artist": "Trashmen"
+ },
+ {
+   "Song": "Surfin' Usa",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Surrender",
+   "Artist": "Cheap Trick"
+ },
+ {
+   "Song": "Suspicious Minds",
+   "Artist": "Elvis Presley"
+ },
+ {
+   "Song": "Sussudio",
+   "Artist": "Phil Collins"
+ },
+ {
+   "Song": "Suzie Q",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Sweet Baby James",
+   "Artist": "James Taylor"
+ },
+ {
+   "Song": "Sweet Child Of Mine",
+   "Artist": "Guns N' Roses"
+ },
+ {
+   "Song": "Sweet Emotion",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Sweet Freedom",
+   "Artist": "Michael Mcdonald"
+ },
+ {
+   "Song": "Sweet Hitchhiker",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Sweet Home Alabama",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Sweet Jane",
+   "Artist": "Lou Reed"
+ },
+ {
+   "Song": "Sweet Talkin' Woman",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Swingtown",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Sympathy For The Devil",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Synchronicity 2",
+   "Artist": "Police"
+ },
+ {
+   "Song": "T.N.T.",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Tainted Love",
+   "Artist": "Soft Cell"
+ },
+ {
+   "Song": "Take It Away",
+   "Artist": "Paul Mccartney"
+ },
+ {
+   "Song": "Take It Easy",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Take It On The Run",
+   "Artist": "Reo Speedwagon"
+ },
+ {
+   "Song": "Take It To The Limit",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Take Me Home",
+   "Artist": "Phil Collins"
+ },
+ {
+   "Song": "Take Me Home Tonight",
+   "Artist": "Eddie Money"
+ },
+ {
+   "Song": "Take Me In Your Arms (Rock Me)",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Take Me To The Pilot (Live)",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Take Me To The River",
+   "Artist": "Talking Heads"
+ },
+ {
+   "Song": "Take The Long Way Home",
+   "Artist": "Supertramp"
+ },
+ {
+   "Song": "Take The Money & Run",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Take This Job And Shove It",
+   "Artist": "Johnny Paycheck"
+ },
+ {
+   "Song": "Takin' Care Of Business",
+   "Artist": "B.T.O."
+ },
+ {
+   "Song": "Takin' It To The Streets",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "Talk Of The Town",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Talk To You Later",
+   "Artist": "Tubes"
+ },
+ {
+   "Song": "Talking In Your Sleep",
+   "Artist": "Romantics"
+ },
+ {
+   "Song": "Tall Cool One",
+   "Artist": "Robert Plant"
+ },
+ {
+   "Song": "Tangerine",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Tangled Up In Blue",
+   "Artist": "Bob Dylan"
+ },
+ {
+   "Song": "Taxi",
+   "Artist": "Harry Chapin"
+ },
+ {
+   "Song": "Taxman",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Teach Your Children",
+   "Artist": "Crosby Stills Nash & Young"
+ },
+ {
+   "Song": "Teacher",
+   "Artist": "Jethro Tull"
+ },
+ {
+   "Song": "Tears In Heaven",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Telephone Line",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Tell Her No",
+   "Artist": "Zombies"
+ },
+ {
+   "Song": "Tell Me Why",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Tempted",
+   "Artist": "Squeeze"
+ },
+ {
+   "Song": "Ten Years Gone",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Tender Is The Night",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "Tenth Avenue Freeze Out",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Tequila",
+   "Artist": "Champs"
+ },
+ {
+   "Song": "Tequila Sunrise",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Texas Flood",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "Thank You",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Thank You (Forlettin Me Be Myself)",
+   "Artist": "Sly & The Family Stone"
+ },
+ {
+   "Song": "Thank You For Being A Friend",
+   "Artist": "Andrew Gold"
+ },
+ {
+   "Song": "That Smell",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "That'll Be The Day",
+   "Artist": "Linda Ronstadt"
+ },
+ {
+   "Song": "That's All",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Theme From Shaft",
+   "Artist": "Isaac Hayes"
+ },
+ {
+   "Song": "There She Goes",
+   "Artist": "The La's"
+ },
+ {
+   "Song": "There's Only One Way To Rock",
+   "Artist": "Sammy Hagar"
+ },
+ {
+   "Song": "These Days",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "These Dreams",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "These Eyes",
+   "Artist": "Guess Who"
+ },
+ {
+   "Song": "Thick As A Brick",
+   "Artist": "Jethro Tull"
+ },
+ {
+   "Song": "Things We Said Today",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Think For Yourself",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Think I'm In Love",
+   "Artist": "Eddie Money"
+ },
+ {
+   "Song": "Thirty Days In The Hole",
+   "Artist": "Humble Pie"
+ },
+ {
+   "Song": "This Beat Goes On/Switching To Glide",
+   "Artist": "Kings"
+ },
+ {
+   "Song": "This Is Not America",
+   "Artist": "David Bowie [+] Pat Metheny"
+ },
+ {
+   "Song": "This Is Radio Clash",
+   "Artist": "Clash"
+ },
+ {
+   "Song": "This Note's For You",
+   "Artist": "Neil Young"
+ },
+ {
+   "Song": "Those Shoes",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Three Little Birds",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Thrill Is Gone, The",
+   "Artist": "Bb King"
+ },
+ {
+   "Song": "Thriller",
+   "Artist": "Michael Jackson"
+ },
+ {
+   "Song": "Throwing It All Away",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Thunder Island",
+   "Artist": "Jay Ferguson"
+ },
+ {
+   "Song": "Thunder Road",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Thunderstruck",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Ticket To Ride",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Tide Is High, The",
+   "Artist": "Blondie"
+ },
+ {
+   "Song": "Tie Your Mother Down",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Tighten Up",
+   "Artist": "Archie Bell And The Drells"
+ },
+ {
+   "Song": "Tightrope",
+   "Artist": "Leon Russell"
+ },
+ {
+   "Song": "Tightrope",
+   "Artist": "Stevie Ray Vaughan"
+ },
+ {
+   "Song": "Time",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Time For Me To Fly",
+   "Artist": "Reo Speedwagon"
+ },
+ {
+   "Song": "Time Has Come Today",
+   "Artist": "Chambers Brothers"
+ },
+ {
+   "Song": "Time Is On My Side",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Time Of The Season",
+   "Artist": "Zombies"
+ },
+ {
+   "Song": "Time Out Of Mind",
+   "Artist": "Steely Dan"
+ },
+ {
+   "Song": "Time Stand Still",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Time The Avenger",
+   "Artist": "Pretenders"
+ },
+ {
+   "Song": "Time Waits For No One",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Time Warp",
+   "Artist": "Rocky Horror Picture Show"
+ },
+ {
+   "Song": "Time Won't Let Me",
+   "Artist": "The Outsiders"
+ },
+ {
+   "Song": "Tin Man",
+   "Artist": "America"
+ },
+ {
+   "Song": "Tiny Dancer",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Tired Of Waiting For You",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "Tom Sawyer",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Tomorrow Never Knows",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Tonight She Comes",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Tonight Tonight Tonight",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Too Hot Too Handle",
+   "Artist": "Ufo"
+ },
+ {
+   "Song": "Too Late For Goodbyes",
+   "Artist": "Julian Lennon"
+ },
+ {
+   "Song": "Too Many People",
+   "Artist": "Paul Mccartney"
+ },
+ {
+   "Song": "Too Much Time On My Hands",
+   "Artist": "Styx"
+ },
+ {
+   "Song": "Too Rolling Stoned",
+   "Artist": "Robin Trower"
+ },
+ {
+   "Song": "Touch And Go",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "Touch Me",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Touch Of Grey",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Toys In The Attic",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Tracks Of My Tears",
+   "Artist": "Linda Ronstadt"
+ },
+ {
+   "Song": "Train In Vain",
+   "Artist": "Clash"
+ },
+ {
+   "Song": "Train Kept A Rollin'",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Train Train",
+   "Artist": "Blackfoot"
+ },
+ {
+   "Song": "Trampled Under Foot",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Travelin' Band",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Traveling Riverside Blues",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Trees, The",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Trenchtown Rock",
+   "Artist": "Bob Marley & The Wailers"
+ },
+ {
+   "Song": "Trouble",
+   "Artist": "Lindsey Buckingham"
+ },
+ {
+   "Song": "Truckin'",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Try (Just A Little Bit Harder)",
+   "Artist": "Janis Joplin"
+ },
+ {
+   "Song": "Tryin' To Live My Life Without You (Live)",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Tube Snake Boogie",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Tubular Bells",
+   "Artist": "Mike Oldfield"
+ },
+ {
+   "Song": "Tuesday Afternoon",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "Tuesday's Gone",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Tuff Enuff",
+   "Artist": "Fabulous Thunderbirds"
+ },
+ {
+   "Song": "Tulsa Time",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Tumbling Dice",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Tunnel Of Love",
+   "Artist": "Bruce Springsteen"
+ },
+ {
+   "Song": "Turn It On Again",
+   "Artist": "Genesis"
+ },
+ {
+   "Song": "Turn Me Loose",
+   "Artist": "Loverboy"
+ },
+ {
+   "Song": "Turn The Page (Live)",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Turn To Stone",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Turn! Turn! Turn!",
+   "Artist": "Byrds"
+ },
+ {
+   "Song": "Turning Japanese",
+   "Artist": "Vapors"
+ },
+ {
+   "Song": "Tush",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Tusk",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Twentieth Century Fox",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Twenty Five Or Six To Four",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Twilight Zone",
+   "Artist": "Golden Earring"
+ },
+ {
+   "Song": "Twist And Shout",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Twisting By The Pool",
+   "Artist": "Dire Straits"
+ },
+ {
+   "Song": "Two Hearts Beat As One",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Two Of Us",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Two Tickets To Paradise",
+   "Artist": "Eddie Money"
+ },
+ {
+   "Song": "U.S. Blues",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Unchained",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Uncle Albert/Admiral Halsey",
+   "Artist": "Paul & Linda Mccartney [+] Paul Mccartney"
+ },
+ {
+   "Song": "Uncle Johns Band",
+   "Artist": "Grateful Dead"
+ },
+ {
+   "Song": "Uncle Salty",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Under My Thumb",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Under My Wheels",
+   "Artist": "Alice Cooper"
+ },
+ {
+   "Song": "Under Pressure",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Under The Bridge",
+   "Artist": "Red Hot Chili Peppers"
+ },
+ {
+   "Song": "Under The Milky Way",
+   "Artist": "The Church"
+ },
+ {
+   "Song": "Undun",
+   "Artist": "Guess Who"
+ },
+ {
+   "Song": "Unskinny Bop",
+   "Artist": "Poison"
+ },
+ {
+   "Song": "Up Around The Bend",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Up On Cripple Creek",
+   "Artist": "Band"
+ },
+ {
+   "Song": "Uptight (Everything's Alright)",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "Urgent",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Us & Them",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Use Me",
+   "Artist": "Bill Withers"
+ },
+ {
+   "Song": "Valerie",
+   "Artist": "Steve Winwood"
+ },
+ {
+   "Song": "Vehicle",
+   "Artist": "Ides Of March"
+ },
+ {
+   "Song": "Ventura Highway",
+   "Artist": "America"
+ },
+ {
+   "Song": "Venus And Mars/Rock Show",
+   "Artist": "Paul Mccartney"
+ },
+ {
+   "Song": "Veronica",
+   "Artist": "Elvis Costello"
+ },
+ {
+   "Song": "Vertigo",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Victim Of Love",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "Voice, The",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "Voices Carry",
+   "Artist": "Til Tuesday"
+ },
+ {
+   "Song": "Voices Inside My Head",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Volunteers",
+   "Artist": "Jefferson Airplane"
+ },
+ {
+   "Song": "Voodoo Chile (Slt Return)",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Wait",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Waitin' For The Bus/Jesus Just Left Chicago",
+   "Artist": "ZZ Top"
+ },
+ {
+   "Song": "Waiting For A Girl Like You",
+   "Artist": "Foreigner"
+ },
+ {
+   "Song": "Waiting For The Sun",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Waiting On A Friend",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Waiting, The",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Walk Away",
+   "Artist": "James Gang"
+ },
+ {
+   "Song": "Walk Don't Run",
+   "Artist": "Ventures"
+ },
+ {
+   "Song": "Walk Like A Man",
+   "Artist": "Grand Funk Railroad"
+ },
+ {
+   "Song": "Walk Of Life",
+   "Artist": "Dire Straits"
+ },
+ {
+   "Song": "Walk On",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Walk On The Ocean",
+   "Artist": "Toad The Wet Sprocket"
+ },
+ {
+   "Song": "Walk On The Wild Side",
+   "Artist": "Lou Reed"
+ },
+ {
+   "Song": "Walk On Water",
+   "Artist": "Eddie Money"
+ },
+ {
+   "Song": "Walk This Way",
+   "Artist": "Aerosmith"
+ },
+ {
+   "Song": "Walking In L.A",
+   "Artist": "Missing Persons"
+ },
+ {
+   "Song": "Walking In Memphis",
+   "Artist": "Marc Cohn"
+ },
+ {
+   "Song": "Walking In Your Footsteps",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Walking On Sunshine",
+   "Artist": "Katrina & The Waves"
+ },
+ {
+   "Song": "Walking On The Moon",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Walls Came Down, The",
+   "Artist": "The Call"
+ },
+ {
+   "Song": "Wanted Dead Or Alive",
+   "Artist": "Bon Jovi"
+ },
+ {
+   "Song": "Wanton Song, The",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "War",
+   "Artist": "Edwin Starr"
+ },
+ {
+   "Song": "War Pigs/Luke's Wall",
+   "Artist": "Black Sabbath"
+ },
+ {
+   "Song": "Wasp, The",
+   "Artist": "Doors"
+ },
+ {
+   "Song": "Wasted On The Way",
+   "Artist": "Crosby Stills & Nash"
+ },
+ {
+   "Song": "Watching The Detectives",
+   "Artist": "Elvis Costello"
+ },
+ {
+   "Song": "Watching The Wheels",
+   "Artist": "John Lennon"
+ },
+ {
+   "Song": "Way It Is, The",
+   "Artist": "Bruce Hornsby"
+ },
+ {
+   "Song": "We Belong",
+   "Artist": "Pat Benatar"
+ },
+ {
+   "Song": "We Built This City",
+   "Artist": "Starship"
+ },
+ {
+   "Song": "We Can Work It Out",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "We Didn't Start The Fire",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "We Gotta Get Out Of This Place",
+   "Artist": "Animals"
+ },
+ {
+   "Song": "We Gotta Get You A Woman",
+   "Artist": "Todd Rundgren"
+ },
+ {
+   "Song": "We Just Disagree",
+   "Artist": "Dave Mason"
+ },
+ {
+   "Song": "We Will Rock You/Champions",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "Weight, The",
+   "Artist": "Band"
+ },
+ {
+   "Song": "Welcome Back",
+   "Artist": "John Sebastian"
+ },
+ {
+   "Song": "Welcome To My Nightmare",
+   "Artist": "Alice Cooper"
+ },
+ {
+   "Song": "Welcome To The Boomtown",
+   "Artist": "David & David"
+ },
+ {
+   "Song": "Welcome To The Jungle",
+   "Artist": "Guns N' Roses"
+ },
+ {
+   "Song": "Welcome To The Machine",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "We'll Be Together",
+   "Artist": "Sting"
+ },
+ {
+   "Song": "Well Respected Man, A",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "We're An American Band",
+   "Artist": "Grand Funk"
+ },
+ {
+   "Song": "We're Not Gonna Take It",
+   "Artist": "Who"
+ },
+ {
+   "Song": "We're Not Gonna Take It",
+   "Artist": "Twisted Sister"
+ },
+ {
+   "Song": "We're Ready",
+   "Artist": "Boston"
+ },
+ {
+   "Song": "Werewolves Of London",
+   "Artist": "Warren Zevon"
+ },
+ {
+   "Song": "We've Got Tonight",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "What A Fool Believes",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "What About Love",
+   "Artist": "Heart"
+ },
+ {
+   "Song": "What I Am",
+   "Artist": "Edie Brickel & The New Bohemians"
+ },
+ {
+   "Song": "What I Got",
+   "Artist": "Sublime"
+ },
+ {
+   "Song": "What I Like About You",
+   "Artist": "Romantics"
+ },
+ {
+   "Song": "What Is & What Should Never Be",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "What Is Life",
+   "Artist": "George Harrison"
+ },
+ {
+   "Song": "What You Need",
+   "Artist": "Inxs"
+ },
+ {
+   "Song": "What'cha Gonna Do?",
+   "Artist": "Pablo Cruise"
+ },
+ {
+   "Song": "What'd I Say (Live)",
+   "Artist": "Ray Charles"
+ },
+ {
+   "Song": "Whatever Gets You Through The Night",
+   "Artist": "John Lennon"
+ },
+ {
+   "Song": "What's Going On",
+   "Artist": "Marvin Gaye"
+ },
+ {
+   "Song": "What's So Funny 'Bout Peace Love & Understandi",
+   "Artist": "Elvis Costello"
+ },
+ {
+   "Song": "What's Your Name",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Wheel In The Sky",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "When Doves Cry",
+   "Artist": "Prince"
+ },
+ {
+   "Song": "When I Need You",
+   "Artist": "Leo Sayer"
+ },
+ {
+   "Song": "When I'm Sixty-Four",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "When Love Comes To Town",
+   "Artist": "U2 [+] B.B. King"
+ },
+ {
+   "Song": "When The Levee Breaks",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "When The Whip Comes Down",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "When The World Is Running Down",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Whenever I Call You Friend",
+   "Artist": "Kenny Loggins"
+ },
+ {
+   "Song": "Where Have All The Good Times Gone",
+   "Artist": "Van Halen"
+ },
+ {
+   "Song": "Where The Streets Have",
+   "Artist": "U2"
+ },
+ {
+   "Song": "While My Guitar Gently Weeps",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "While You See A Chance",
+   "Artist": "Steve Winwood"
+ },
+ {
+   "Song": "Whip It",
+   "Artist": "Devo"
+ },
+ {
+   "Song": "Whipping Post",
+   "Artist": "Allman Brothers"
+ },
+ {
+   "Song": "Whiskey In The Jar",
+   "Artist": "Thin Lizzy"
+ },
+ {
+   "Song": "White Rabbit",
+   "Artist": "Jefferson Airplane"
+ },
+ {
+   "Song": "White Room",
+   "Artist": "Cream"
+ },
+ {
+   "Song": "White Wedding",
+   "Artist": "Billy Idol"
+ },
+ {
+   "Song": "Whiter Shade Of Pale, A",
+   "Artist": "Procol Harum"
+ },
+ {
+   "Song": "Who Are You",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Who Can It Be Now",
+   "Artist": "Men At Work"
+ },
+ {
+   "Song": "Who Do You Love",
+   "Artist": "George Thorogood"
+ },
+ {
+   "Song": "Who Made Who",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "Whole Lotta Love",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Whole Lotta Shakin Going On",
+   "Artist": "Jerry Lee Lewis"
+ },
+ {
+   "Song": "Who'll Stop The Rain",
+   "Artist": "Creedence Clearwater Revival"
+ },
+ {
+   "Song": "Who's Crying Now",
+   "Artist": "Journey"
+ },
+ {
+   "Song": "Who's Gonna Ride Your Wild Horses",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Why Can't We Be Friends",
+   "Artist": "War"
+ },
+ {
+   "Song": "Why Don't We Do It In The Road?",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Wichita Lineman",
+   "Artist": "Glen Campbell"
+ },
+ {
+   "Song": "Wicked Game",
+   "Artist": "Chris Isaak"
+ },
+ {
+   "Song": "Wild Horses",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "Wild Mountain Honey",
+   "Artist": "Steve Miller"
+ },
+ {
+   "Song": "Wild Night",
+   "Artist": "John Mellencamp"
+ },
+ {
+   "Song": "Wild Night",
+   "Artist": "Van Morrison"
+ },
+ {
+   "Song": "Wild Thing",
+   "Artist": "Troggs"
+ },
+ {
+   "Song": "Wild Wild Life",
+   "Artist": "Talking Heads"
+ },
+ {
+   "Song": "Wildflowers",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Will It Go Round In Circles",
+   "Artist": "Billy Preston"
+ },
+ {
+   "Song": "Willie & The Hand Jive",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Wind Cries Mary, The",
+   "Artist": "Jimi Hendrix"
+ },
+ {
+   "Song": "Wind Of Change",
+   "Artist": "Scorpions"
+ },
+ {
+   "Song": "Winning",
+   "Artist": "Santana"
+ },
+ {
+   "Song": "Wipeout",
+   "Artist": "Surfaris"
+ },
+ {
+   "Song": "Wish You Were Here",
+   "Artist": "Pink Floyd"
+ },
+ {
+   "Song": "Wishing You Were Here",
+   "Artist": "Chicago"
+ },
+ {
+   "Song": "Wishlist",
+   "Artist": "Pearl Jam"
+ },
+ {
+   "Song": "Witchy Woman",
+   "Artist": "Eagles"
+ },
+ {
+   "Song": "With A Little Luck",
+   "Artist": "Paul Mccartney & Wings [+] Paul Mccartney"
+ },
+ {
+   "Song": "With Or Without You",
+   "Artist": "U2"
+ },
+ {
+   "Song": "Woman From Tokyo",
+   "Artist": "Deep Purple"
+ },
+ {
+   "Song": "Woman In Love, A",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Wonderful Tonight",
+   "Artist": "Eric Clapton"
+ },
+ {
+   "Song": "Wonderwall",
+   "Artist": "Oasis"
+ },
+ {
+   "Song": "Won't Get Fooled Again",
+   "Artist": "Who"
+ },
+ {
+   "Song": "Wooden Ships",
+   "Artist": "Crosby Stills & Nash"
+ },
+ {
+   "Song": "Woodstock",
+   "Artist": "Crosby Stills Nash & Young"
+ },
+ {
+   "Song": "Word, The",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Working For A Livin'",
+   "Artist": "Huey Lewis And The News"
+ },
+ {
+   "Song": "Working For Mca",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "Working For The Weekend",
+   "Artist": "Loverboy"
+ },
+ {
+   "Song": "Working Man",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "World Is A Ghetto, The",
+   "Artist": "War"
+ },
+ {
+   "Song": "World Turning",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "Wouldn't It Be Nice",
+   "Artist": "Beach Boys"
+ },
+ {
+   "Song": "Wrap It Up",
+   "Artist": "Fabulous Thunderbirds"
+ },
+ {
+   "Song": "Wrapped Around Your Finger",
+   "Artist": "Police"
+ },
+ {
+   "Song": "Wreck Of The Edmond Fitzgerald, The",
+   "Artist": "Gordon Lightfoot"
+ },
+ {
+   "Song": "Xanadu",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Xanadu (Live At Wembley Stadium)",
+   "Artist": "Electric Light Orchestra"
+ },
+ {
+   "Song": "Year Of The Cat",
+   "Artist": "Al Stewart"
+ },
+ {
+   "Song": "Yellow Submarine",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Yer So Bad",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Yesterday",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "You Ain't Seen Nothin' Yet",
+   "Artist": "B.T.O."
+ },
+ {
+   "Song": "You Are The Sunshine Of My Life",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "You Belong To Me",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "You Belong To The City",
+   "Artist": "Glenn Frey"
+ },
+ {
+   "Song": "You Better Run",
+   "Artist": "Pat Benatar"
+ },
+ {
+   "Song": "You Better You Bet",
+   "Artist": "Who"
+ },
+ {
+   "Song": "You Can Call Me Al",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "You Can't Always Get What You Want",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "You Can't Get What You Want",
+   "Artist": "Joe Jackson"
+ },
+ {
+   "Song": "You Don't Know How It Feels",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "You Don't Mess Around With Jim",
+   "Artist": "Jim Croce"
+ },
+ {
+   "Song": "You Give Love A Bad Name",
+   "Artist": "Bon Jovi"
+ },
+ {
+   "Song": "You Got It",
+   "Artist": "Roy Orbison"
+ },
+ {
+   "Song": "You Got Lucky",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "You Got That Right",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "You Haven't Done Nothin'",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "You Love The Thunder",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "You Make Lovin' Fun",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "You May Be Right",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "You Might Think",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "You Never Give Me Your Money",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "You Really Got Me",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "You Shook Me",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "You Shook Me All Night Long",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "You Turn Me On I'm A Radio",
+   "Artist": "Joni Mitchell"
+ },
+ {
+   "Song": "You Wear It Well",
+   "Artist": "Rod Stewart"
+ },
+ {
+   "Song": "You Won't See Me",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "You Wreck Me",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "You'll Accomp'ny Me",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Young Americans",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Young Blood",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Your Love",
+   "Artist": "Outfield"
+ },
+ {
+   "Song": "Your Love Is Driving Me Crazy",
+   "Artist": "Sammy Hagar"
+ },
+ {
+   "Song": "Your Mama Don't Dance",
+   "Artist": "Loggins & Messina [+] Kenny Loggins"
+ },
+ {
+   "Song": "Your Mother Should Know",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Your Song",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Your Time Is Gonna Come",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Your Wildest Dreams",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "You're All I've Got Tonight",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "You're Gonna Get It",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "You're Gonna Lose That Girl",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "You're My Best Friend",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "You're Only Lonely",
+   "Artist": "Jd Souther"
+ },
+ {
+   "Song": "You're Sixteen",
+   "Artist": "Ringo Starr"
+ },
+ {
+   "Song": "You're So Vain",
+   "Artist": "Carly Simon"
+ },
+ {
+   "Song": "You've Got A Friend",
+   "Artist": "James Taylor"
+ },
+ {
+   "Song": "You've Got Another Thing Comin",
+   "Artist": "Judas Priest"
+ },
+ {
+   "Song": "You've Got To Hide Your Love Away",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "You've Made Me So Very Happy",
+   "Artist": "Blood Sweat & Tears"
+ },
+ {
+   "Song": "Yyz (Pronounced \"\"Y-Y-Zed\"\")",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Ziggy Stardust",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Zombie",
+   "Artist": "Cranberries"
+ },
+ {
+   "Song": "Zoo, The",
+   "Artist": "Scorpions"
+ },
+ {
+   "Song": "Zooropa",
+   "Artist": "U2\""
+ },
+ {
+   "Song": "Year Of The Cat",
+   "Artist": "Al Stewart"
+ },
+ {
+   "Song": "Yellow Submarine",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Yer So Bad",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "Yesterday",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "You Ain't Seen Nothin' Yet",
+   "Artist": "B.T.O."
+ },
+ {
+   "Song": "You Are The Sunshine Of My Life",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "You Belong To Me",
+   "Artist": "Doobie Brothers"
+ },
+ {
+   "Song": "You Belong To The City",
+   "Artist": "Glenn Frey"
+ },
+ {
+   "Song": "You Better Run",
+   "Artist": "Pat Benatar"
+ },
+ {
+   "Song": "You Better You Bet",
+   "Artist": "Who"
+ },
+ {
+   "Song": "You Can Call Me Al",
+   "Artist": "Paul Simon"
+ },
+ {
+   "Song": "You Can't Always Get What You Want",
+   "Artist": "Rolling Stones"
+ },
+ {
+   "Song": "You Can't Get What You Want",
+   "Artist": "Joe Jackson"
+ },
+ {
+   "Song": "You Don't Know How It Feels",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "You Don't Mess Around With Jim",
+   "Artist": "Jim Croce"
+ },
+ {
+   "Song": "You Give Love A Bad Name",
+   "Artist": "Bon Jovi"
+ },
+ {
+   "Song": "You Got It",
+   "Artist": "Roy Orbison"
+ },
+ {
+   "Song": "You Got Lucky",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "You Got That Right",
+   "Artist": "Lynyrd Skynyrd"
+ },
+ {
+   "Song": "You Haven't Done Nothin'",
+   "Artist": "Stevie Wonder"
+ },
+ {
+   "Song": "You Love The Thunder",
+   "Artist": "Jackson Browne"
+ },
+ {
+   "Song": "You Make Lovin' Fun",
+   "Artist": "Fleetwood Mac"
+ },
+ {
+   "Song": "You May Be Right",
+   "Artist": "Billy Joel"
+ },
+ {
+   "Song": "You Might Think",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "You Never Give Me Your Money",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "You Really Got Me",
+   "Artist": "Kinks"
+ },
+ {
+   "Song": "You Shook Me",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "You Shook Me All Night Long",
+   "Artist": "AC/DC"
+ },
+ {
+   "Song": "You Turn Me On I'm A Radio",
+   "Artist": "Joni Mitchell"
+ },
+ {
+   "Song": "You Wear It Well",
+   "Artist": "Rod Stewart"
+ },
+ {
+   "Song": "You Won't See Me",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "You Wreck Me",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "You'll Accomp'ny Me",
+   "Artist": "Bob Seger"
+ },
+ {
+   "Song": "Young Americans",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Young Blood",
+   "Artist": "Bad Company"
+ },
+ {
+   "Song": "Your Love",
+   "Artist": "Outfield"
+ },
+ {
+   "Song": "Your Love Is Driving Me Crazy",
+   "Artist": "Sammy Hagar"
+ },
+ {
+   "Song": "Your Mama Don't Dance",
+   "Artist": "Loggins & Messina [+] Kenny Loggins"
+ },
+ {
+   "Song": "Your Mother Should Know",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "Your Song",
+   "Artist": "Elton John"
+ },
+ {
+   "Song": "Your Time Is Gonna Come",
+   "Artist": "Led Zeppelin"
+ },
+ {
+   "Song": "Your Wildest Dreams",
+   "Artist": "Moody Blues"
+ },
+ {
+   "Song": "You're All I've Got Tonight",
+   "Artist": "Cars"
+ },
+ {
+   "Song": "You're Gonna Get It",
+   "Artist": "Tom Petty"
+ },
+ {
+   "Song": "You're Gonna Lose That Girl",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "You're My Best Friend",
+   "Artist": "Queen"
+ },
+ {
+   "Song": "You're Only Lonely",
+   "Artist": "Jd Souther"
+ },
+ {
+   "Song": "You're Sixteen",
+   "Artist": "Ringo Starr"
+ },
+ {
+   "Song": "You're So Vain",
+   "Artist": "Carly Simon"
+ },
+ {
+   "Song": "You've Got A Friend",
+   "Artist": "James Taylor"
+ },
+ {
+   "Song": "You've Got Another Thing Comin",
+   "Artist": "Judas Priest"
+ },
+ {
+   "Song": "You've Got To Hide Your Love Away",
+   "Artist": "Beatles"
+ },
+ {
+   "Song": "You've Made Me So Very Happy",
+   "Artist": "Blood Sweat & Tears"
+ },
+ {
+   "Song": "YYZ (Pronounced \"Y-Y-Zed\")",
+   "Artist": "Rush"
+ },
+ {
+   "Song": "Ziggy Stardust",
+   "Artist": "David Bowie"
+ },
+ {
+   "Song": "Zombie",
+   "Artist": "Cranberries"
+ },
+ {
+   "Song": "Zoo, The",
+   "Artist": "Scorpions"
+ },
+ {
+   "Song": "Zooropa",
+   "Artist": "U2"
+ }
+]
+}
